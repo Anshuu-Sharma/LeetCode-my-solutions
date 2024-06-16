@@ -14,6 +14,7 @@ public:
         return days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
+        cin.tie(nullptr) -> sync_with_stdio(false);
         int n = weights.size();
         int low = *max_element(weights.begin(), weights.end());
         int high = accumulate(weights.begin(), weights.end(), 0);
