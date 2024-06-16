@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1646-kth-missing-positive-number) |
 # Matrix
 |  |
 | ------- |
