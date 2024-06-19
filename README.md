@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
 # Two Pointers
 |  |
 | ------- |
@@ -116,3 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
