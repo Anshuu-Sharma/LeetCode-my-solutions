@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0058-length-of-last-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
 # Stack
 |  |
