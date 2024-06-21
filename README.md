@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Sorting
 |  |
@@ -123,3 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
+# Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
