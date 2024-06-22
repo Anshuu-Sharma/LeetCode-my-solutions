@@ -11,8 +11,8 @@ public:
     bool hasCycle(ListNode *head) {
         map<ListNode*,int> mpp;
         ListNode* temp = head;
-        while(temp != NULL) {
-            if(mpp.find(temp) != mpp.end()) {
+        while (temp != nullptr) {
+            if (mpp.find(temp) != mpp.end()) {
                 return true;
             }
             mpp[temp] = 1;
