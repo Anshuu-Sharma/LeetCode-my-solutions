@@ -12,14 +12,13 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         cout.tie(NULL);
-        map<ListNode*,int> mpp;
-        ListNode* temp = head;
-        while (temp != nullptr) {
-            if (mpp.find(temp) != mpp.end()) {
-                return true;
-            }
-            mpp[temp] = 1;
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+            if (slow == fast) return true;
         }
         return false;
     }
