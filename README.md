@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 # Sorting
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
 # Math
 |  |
@@ -134,8 +136,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
