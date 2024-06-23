@@ -33,6 +33,9 @@ public:
         
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         ListNode* temp = head;
         ListNode* prevNode = NULL;
 
