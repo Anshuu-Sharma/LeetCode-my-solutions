@@ -1,6 +1,9 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         stack<char> stk;
         for(int i = 0; i<num.size(); i++) {
             stk.push(num[i]);
