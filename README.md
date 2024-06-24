@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0058-length-of-last-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2032-largest-odd-number-in-string) |
 # Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2032-largest-odd-number-in-string) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -166,3 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0148-sort-list) |
+# Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2032-largest-odd-number-in-string) |
