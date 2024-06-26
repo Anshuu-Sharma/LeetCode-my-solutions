@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -175,3 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2032-largest-odd-number-in-string) |
+# Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0078-subsets) |
