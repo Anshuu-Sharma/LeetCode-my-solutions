@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2050-count-good-numbers) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2050-count-good-numbers) |
 # Merge Sort
 |  |
 | ------- |
