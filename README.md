@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
 # Two Pointers
 |  |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
 # Math
 |  |
@@ -195,3 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0232-implement-queue-using-stacks) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0496-next-greater-element-i) |
