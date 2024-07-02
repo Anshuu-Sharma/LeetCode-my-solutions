@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> ans;
-        map<int, int> mpp;
+        unordered_map<int, int> mpp;
         int mini = (int)nums.size()/3 + 1;
         for(int i = 0; i<=nums.size()-1; i++) {
             mpp[nums[i]]++;
