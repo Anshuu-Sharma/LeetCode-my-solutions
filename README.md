@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0118-pascals-triangle) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
@@ -251,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
