@@ -1,6 +1,9 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int n = ratings.size();
         int left[n], right[n];
         left[0] = 1;
