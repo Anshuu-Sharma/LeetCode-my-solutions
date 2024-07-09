@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
