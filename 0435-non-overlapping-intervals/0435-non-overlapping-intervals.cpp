@@ -7,7 +7,7 @@ const int ZERO = []() {
 
 class Solution {
 public:
-    static bool comp(vector<int> val1, vector<int> val2) {
+    static bool comp(const vector<int>& val1,const vector<int>& val2) {
         return val1[1] < val2[1];
     }
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
