@@ -36,14 +36,13 @@ public:
         }
 
         vector<vector<int>> ans;
-        for (const auto& p : nodes) {
+        for(auto p : nodes) {
             vector<int> col;
-            for (const auto& q : p.second) {
+            for(auto q : p.second) {
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
             ans.push_back(move(col));
         }
-
         return ans;
 
 
