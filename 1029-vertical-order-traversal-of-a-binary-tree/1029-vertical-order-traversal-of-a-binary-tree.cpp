@@ -12,9 +12,12 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
+       // map<x-coordinate, map<y-coordinate, multiset of nodes at (x, y)>>
         map<int, map<int, multiset<int>>> nodes;
+        // queue storing pairs of (TreeNode*, pair<x, y>)
         queue<pair<TreeNode*, pair<int, int>>> info;
-        info.push({root, {0,0}});
+        // start BFS with root at position (0, 0)
+        info.push({root, {0, 0}});
 
         while(!info.empty()) {
             auto p = info.front();
@@ -33,13 +36,14 @@ public:
         }
 
         vector<vector<int>> ans;
-        for(auto p : nodes) {
+        for (const auto& p : nodes) {
             vector<int> col;
-            for(auto q : p.second) {
+            for (const auto& q : p.second) {
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
-            ans.emplace_back(col);
+            ans.push_back(move(col));
         }
+
         return ans;
 
 
