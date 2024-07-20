@@ -12,6 +12,9 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(root == NULL) return NULL;
         TreeNode* temp = root;
 
@@ -22,6 +25,7 @@ public:
                 if(temp->right) temp = temp->right;
                 else return NULL;
             }
+
             else if(temp->val > val){
                 if(temp->left) temp = temp->left;
                 else return NULL;
