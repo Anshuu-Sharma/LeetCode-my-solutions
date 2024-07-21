@@ -12,6 +12,9 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(root == NULL) return new TreeNode(val);
         TreeNode* cur = root;
         while(true)
