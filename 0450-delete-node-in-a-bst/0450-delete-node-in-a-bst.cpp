@@ -26,6 +26,9 @@ public:
     }
 
     TreeNode* deleteNode(TreeNode* root, int key) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(root == NULL) return NULL;
 
         if(root->val == key) return helper(root);
