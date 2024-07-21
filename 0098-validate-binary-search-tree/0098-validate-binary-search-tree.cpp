@@ -16,6 +16,9 @@ public:
     }
 
     bool isValidBST(TreeNode* root, long long minval, long long maxval){
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(root == NULL) return true;
         if(root->val >= maxval || root->val <= minval) return false;
 
