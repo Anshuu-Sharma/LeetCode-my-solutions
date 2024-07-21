@@ -12,8 +12,8 @@
 class Solution {
 public:
     TreeNode* helper(TreeNode* root){
-        if(root->left == NULL) return root->right;
-        else if(root->right == NULL) return root->left;
+        if( root->left == NULL ) return root->right;
+        else if( root->right == NULL ) return root->left;
 
         TreeNode* rightchild = root->right;
         TreeNode* lastright = findlastright(root->left);
@@ -21,7 +21,7 @@ public:
         return root->left;
     }
     TreeNode* findlastright(TreeNode* root) {
-        if(root->right == NULL) return root;
+        if( root->right == NULL ) return root;
         return findlastright(root->right);
     }
 
@@ -29,15 +29,15 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         cout.tie(NULL);
-        if(root == NULL) return NULL;
+        if( root == NULL ) return NULL;
 
-        if(root->val == key) return helper(root);
+        if( root->val == key ) return helper(root);
 
         TreeNode* temp = root;
         while(root) 
         {
-            if(root->val > key) {
-                if(root->left && root->left->val == key)
+            if( root->val > key ) {
+                if( root->left && root->left->val == key )
                 {
                    root->left = helper(root->left);
                    break;
@@ -48,7 +48,7 @@ public:
             }
             else
             {
-                if(root->right && root->right->val == key)
+                if( root->right && root->right->val == key )
                 {
                    root->right = helper(root->right);
                    break;
