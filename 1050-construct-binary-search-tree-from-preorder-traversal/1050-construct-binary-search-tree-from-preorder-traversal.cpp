@@ -16,6 +16,7 @@ public:
         int i = 0;
         return build(preorder, i, INT_MAX);
     }
+private:
     TreeNode* build(vector<int>& preorder, int& i, int bound){
 
         if( i == preorder.size() || preorder[i] > bound) return NULL;
