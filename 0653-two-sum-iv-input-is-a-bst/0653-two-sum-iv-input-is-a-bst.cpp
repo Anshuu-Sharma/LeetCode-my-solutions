@@ -47,6 +47,7 @@ public:
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
+        ios::sync_with_stdio(false); cin.tie(nullptr);
         if(!root) return false;
 
         BSTiterator l(root, false);
