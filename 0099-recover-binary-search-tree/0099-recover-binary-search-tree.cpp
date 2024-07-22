@@ -18,10 +18,10 @@ private:
     
 private:
        void inorder(TreeNode* root) {
-        if(root == NULL) return;
+        if(root == nullptr) return;
         inorder(root->left);
-        if(prev != NULL && (root->val < prev->val)){
-            if(first == NULL){
+        if(prev != nullptr && (root->val < prev->val)){
+            if(first == nullptr){
                 first = prev;
                 middle = root;
             }
@@ -36,7 +36,7 @@ private:
 public:
 
      void recoverTree(TreeNode* root) {
-        first = middle = last = NULL;
+        first = middle = last = nullptr;
         prev = new TreeNode(INT_MIN);
         inorder(root);
         if(first && last) swap(first->val, last->val);
