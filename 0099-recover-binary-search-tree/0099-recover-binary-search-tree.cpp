@@ -42,10 +42,12 @@ private:
 public:
 
      void recoverTree(TreeNode* root) {
+        ios::sync_with_stdio(false); cin.tie(nullptr);
+
         first = middle = last = nullptr;
         prev = new TreeNode(INT_MIN);
         inorder(root);
-        
+
         if(first && last) swap(first->val, last->val);
         else if(first && middle) swap(first->val, middle->val);
     } 
