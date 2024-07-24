@@ -5,8 +5,8 @@ public:
         cin.tie(NULL);
         cout.tie(NULL);
         int xor1 = 0;
-        for(int i = 0; i<nums.size(); i++) {
-            xor1 = xor1^nums[i];
+        for(auto it : nums) {
+            xor1 ^= it;
         }
         return xor1;
     }
