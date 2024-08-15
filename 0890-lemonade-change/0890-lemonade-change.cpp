@@ -4,18 +4,19 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(0);
         cout.tie(0);
+
         int five = 0, ten = 0;
         for(int i = 0; i<bills.size(); i++) {
             if(bills[i] == 5) five++;
-            if(bills[i] == 10){
+            else if(bills[i] == 10){
                 ten++;
-                if(five) five--;
+                if(five > 0) five--;
                 else{
                     return false;
                 }
             }
-            if(bills[i] == 20) {
-                if(five && ten) {
+            else {
+                if(five > 0 && ten > 0) {
                     five--;
                     ten--;
                 }
