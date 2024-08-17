@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0812-rotate-string) |
+| [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3379-score-of-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3379-score-of-a-string) |
