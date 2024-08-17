@@ -2,11 +2,11 @@ class Solution {
 public:
     string defangIPaddr(string address) {
       string defanged = "";
-        for(char c : address) {
-            if(c == '.') {
+        for(int i = 0; i<address.size(); i++) {
+            if(address[i] == '.') {
                 defanged += "[.]";
             } else {
-                defanged += c;
+                defanged += address[i];
             }
         }
         return defanged;
