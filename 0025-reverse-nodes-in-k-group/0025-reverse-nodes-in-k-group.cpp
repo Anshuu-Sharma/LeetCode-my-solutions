@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* findkth(ListNode* temp, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
          k -= 1; 
     while(temp != NULL && k > 0){
         k--; 
