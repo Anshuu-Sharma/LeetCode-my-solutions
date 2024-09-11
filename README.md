@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
@@ -319,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
