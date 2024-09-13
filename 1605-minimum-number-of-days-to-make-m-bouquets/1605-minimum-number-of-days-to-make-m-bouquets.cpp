@@ -36,8 +36,9 @@ int max(vector<int> arr, int n){
     return max;
 }
     int minDays(vector<int>& bloomDay, int m, int k) {
-         ios::sync_with_stdio(0);
-        cin.tie(0);
+        ios::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int n = bloomDay.size();
         int low = min(bloomDay,n), high = max(bloomDay,n);
         int ans = -1;
