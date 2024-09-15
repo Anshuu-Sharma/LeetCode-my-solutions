@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
