@@ -1,6 +1,9 @@
 class Solution {
 public:
     int maxCoins(vector<int>& piles) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         sort(piles.begin(), piles.end());
         int n = piles.size();
         int alice = n-1;
