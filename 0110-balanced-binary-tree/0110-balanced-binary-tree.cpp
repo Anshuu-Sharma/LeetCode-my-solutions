@@ -12,9 +12,7 @@
 class Solution {
 public:
     int depthcheck(TreeNode* root) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
+     
         if(root == NULL) return 0;
 
         int lh = depthcheck(root->left);
@@ -26,7 +24,7 @@ public:
 
     }
     bool isBalanced(TreeNode* root) {
-         ios_base::sync_with_stdio(false);
+        ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         cout.tie(NULL);
         int ans = depthcheck(root);
