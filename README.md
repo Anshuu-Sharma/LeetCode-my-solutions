@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Counting
 |  |
 | ------- |
@@ -602,4 +605,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
