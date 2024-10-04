@@ -12,6 +12,9 @@ public:
         return true;
     }
     string firstPalindrome(vector<string>& words) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
 
         for(string it : words){
             if(check(it)) return it;
