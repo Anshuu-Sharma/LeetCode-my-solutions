@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3379-score-of-a-string) |
 ## Sliding Window
