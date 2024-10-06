@@ -403,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
