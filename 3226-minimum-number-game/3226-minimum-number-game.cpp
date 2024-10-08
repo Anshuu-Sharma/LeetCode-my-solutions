@@ -12,7 +12,6 @@ public:
             i++;
             temp.push_back(bob);
             temp.push_back(alice);
-
         }
         return temp;
     }
