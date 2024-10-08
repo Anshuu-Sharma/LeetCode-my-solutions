@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
