@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> occurrencesOfElement(vector<int>& nums, vector<int>& queries, int x) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
         vector<int> ans;
         vector<int> vis(nums.size()+1, -1);
 
