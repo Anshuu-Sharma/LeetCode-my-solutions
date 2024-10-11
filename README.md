@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
