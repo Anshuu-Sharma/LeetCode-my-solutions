@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1603-running-sum-of-1d-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Math
