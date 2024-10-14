@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Stack
 |  |
 | ------- |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
