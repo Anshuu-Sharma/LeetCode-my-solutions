@@ -13,6 +13,9 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         // Use an unordered_set for fast O(1) lookups
         unordered_set<int> numSet(nums.begin(), nums.end());
         
