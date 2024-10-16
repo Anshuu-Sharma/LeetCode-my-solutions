@@ -11,6 +11,9 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         ListNode* first_zero = head;
         ListNode* temp = head->next;
         ListNode* prev = head;
