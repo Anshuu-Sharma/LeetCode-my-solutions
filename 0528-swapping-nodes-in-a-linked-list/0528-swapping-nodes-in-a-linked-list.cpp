@@ -11,6 +11,10 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
+
+        // this is brute one from my side , ig it'll use rabbit and hare method 
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         ListNode* start = head;
         ListNode* end = head;
         ListNode* temp = head;
