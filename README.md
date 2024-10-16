@@ -394,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
