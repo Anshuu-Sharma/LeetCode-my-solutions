@@ -11,6 +11,9 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if(head->next == NULL) return head; 
         ListNode* temp = head;
         while(temp && temp->next){
