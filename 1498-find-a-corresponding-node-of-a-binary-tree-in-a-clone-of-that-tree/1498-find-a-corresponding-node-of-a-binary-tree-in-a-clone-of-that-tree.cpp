@@ -11,6 +11,10 @@
 class Solution {
 public:
     TreeNode* getTargetCopy(TreeNode* original, TreeNode* cloned, TreeNode* target) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        if(!cloned) return nullptr;
         int data = target->val;
 
         queue<TreeNode*> q;
