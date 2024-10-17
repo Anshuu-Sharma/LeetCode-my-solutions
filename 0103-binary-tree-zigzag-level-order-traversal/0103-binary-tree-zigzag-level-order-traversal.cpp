@@ -11,7 +11,11 @@
  */
 class Solution {
 public:
+
+    //DEQUE METHOD
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<vector<int>> ans;
         if(root == NULL) return ans;
 
