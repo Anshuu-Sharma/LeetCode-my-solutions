@@ -10,30 +10,58 @@
  * };
  */
 class Solution {
-private:
-    map<int, int> mpp;
-    int n = 0;
 
+private: 
+    int maxlevel = -1;
+    int ans_node;
 public:
+    
     void traverse(TreeNode* root, int level){
         if(!root) return;
 
-        if(mpp.find(level) == mpp.end()){
-            mpp[level] = root->val;
-            n++;
+        if(maxlevel < level){
+            ans_node = root->val;
+            maxlevel = level;
         }
 
         traverse(root->left, level+1);
         traverse(root->right, level+1);
-
     }
-
-
-    int findBottomLeftValue(TreeNode* root) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
+    int findBottomLeftValue(TreeNode* root){
         traverse(root, 0);
-        return mpp[n-1];
+        return ans_node;
     }
+
+
+
+
+
+
+
+// private:
+//     map<int, int> mpp;
+//     int n = 0;
+
+// public:
+//     void traverse(TreeNode* root, int level){
+//         if(!root) return;
+
+//         if(mpp.find(level) == mpp.end()){
+//             mpp[level] = root->val;
+//             n++;
+//         }
+
+//         traverse(root->left, level+1);
+//         traverse(root->right, level+1);
+
+//     }
+
+
+//     int findBottomLeftValue(TreeNode* root) {
+//         ios_base::sync_with_stdio(false);
+//         cin.tie(NULL);
+//         cout.tie(NULL);
+//         traverse(root, 0);
+//         return mpp[n-1];
+//     }
 };
