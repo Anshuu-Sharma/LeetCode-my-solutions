@@ -30,6 +30,9 @@ public:
 
 
     int findBottomLeftValue(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         traverse(root, 0);
         return mpp[n-1];
     }
