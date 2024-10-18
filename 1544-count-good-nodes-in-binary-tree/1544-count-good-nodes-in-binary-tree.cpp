@@ -26,6 +26,9 @@ public:
     }
 
     int goodNodes(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         int m = INT_MIN;
         traverse(root, m);
         return cnt;
