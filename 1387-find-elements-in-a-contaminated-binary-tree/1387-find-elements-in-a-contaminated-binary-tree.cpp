@@ -12,6 +12,7 @@
 class FindElements {
 private:
     TreeNode* root;
+    unordered_set<int> st;
 public:
     FindElements(TreeNode* root) {
         this->root = root;  // this was necessary so that this node can be accessed in other functions like find() as well
@@ -21,6 +22,7 @@ public:
         while(!q.empty()){
             TreeNode* temp = q.front(); 
             q.pop();
+            st.insert(temp->val);
             
             if(temp->left){
                 temp->left->val = 2*temp->val + 1;
@@ -35,18 +37,7 @@ public:
     }
     
     bool find(int target) {
-        queue<TreeNode*> q;
-        q.push(root);
-
-        while(!q.empty()){
-            TreeNode* temp = q.front();
-            q.pop();
-
-            if(temp->val == target) return true;
-            if(temp->left) q.push(temp->left);
-            if(temp->right) q.push(temp->right);
-        }
-        return false;
+        return (st.find(target) != st.end());
     }
 };
 
