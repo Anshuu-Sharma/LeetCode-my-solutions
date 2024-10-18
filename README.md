@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -575,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -591,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Bit Manipulation
 |  |
@@ -634,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Iterator
 |  |
 | ------- |
