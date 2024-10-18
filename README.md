@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
@@ -729,4 +731,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
