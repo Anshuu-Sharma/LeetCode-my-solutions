@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -689,10 +690,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
 | ------- |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
