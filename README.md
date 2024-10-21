@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
