@@ -29,6 +29,9 @@ public:
         helper(root->right);
     }
     int sumEvenGrandparent(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         helper(root);
         return sum;
     }
