@@ -20,6 +20,9 @@ public:
     }
 
     TreeNode* helper(vector<int>& arr, int low, int high){
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         if (low > high) return nullptr;  // Base case: when the range is invalid
         
         int divide = finder(arr, low, high);
