@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
