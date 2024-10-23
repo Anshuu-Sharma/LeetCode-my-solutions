@@ -12,6 +12,9 @@
 class Solution {
 public:
     int deepestLeavesSum(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
         int sum;
         queue<TreeNode*> q;
         q.push(root);
