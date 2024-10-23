@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
