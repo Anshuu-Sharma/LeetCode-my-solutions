@@ -12,6 +12,7 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
+        ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
         int ans_level;
         int level = 0;
         long long maxi = INT_MIN;
