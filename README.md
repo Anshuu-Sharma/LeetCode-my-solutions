@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2752-sum-multiples) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
