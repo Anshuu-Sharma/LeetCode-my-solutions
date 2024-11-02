@@ -1,9 +1,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
+
         int mini = prices[0];
         int maxProfit = 0;
         int n = prices.size();
