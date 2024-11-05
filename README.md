@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3379-score-of-a-string) |
