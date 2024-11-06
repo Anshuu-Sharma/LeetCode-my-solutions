@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2752-sum-multiples) |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
