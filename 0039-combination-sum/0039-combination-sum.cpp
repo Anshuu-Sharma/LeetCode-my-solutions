@@ -18,6 +18,10 @@ public:
         
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        cout.tie(NULL);
+        
         dp_helper(candidates, target, candidates.size()-1, {});
         return ans;
     }
