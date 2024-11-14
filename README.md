@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
