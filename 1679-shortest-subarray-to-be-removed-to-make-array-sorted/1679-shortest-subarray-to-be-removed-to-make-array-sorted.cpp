@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findLengthOfShortestSubarray(std::vector<int>& arr) {
+        //KNK
         int n = arr.size(); 
         int left = 0, right = n - 1; 
 
