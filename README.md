@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
