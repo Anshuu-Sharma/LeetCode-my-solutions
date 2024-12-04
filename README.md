@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Sorting
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-circular-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
