@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
