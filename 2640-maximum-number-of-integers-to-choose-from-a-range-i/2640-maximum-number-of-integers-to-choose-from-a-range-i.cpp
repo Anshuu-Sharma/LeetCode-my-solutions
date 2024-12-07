@@ -1,0 +1,17 @@
+class Solution {
+ public:
+ //KNK
+  int maxCount(vector<int>& banned, int n, int maxSum) {
+    int ans = 0;
+    int sum = 0;
+    const unordered_set<int> bannedSet{banned.begin(), banned.end()};
+
+    for (int i = 1; i <= n; ++i)
+      if (!bannedSet.contains(i) && sum + i <= maxSum) {
+        ++ans;
+        sum += i;
+      }
+
+    return ans;
+  }
+};
