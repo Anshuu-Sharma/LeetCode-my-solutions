@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
