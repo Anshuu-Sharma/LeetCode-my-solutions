@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
