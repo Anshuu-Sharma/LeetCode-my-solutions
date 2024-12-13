@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
@@ -544,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
