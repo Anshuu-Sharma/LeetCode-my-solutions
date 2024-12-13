@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -905,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
@@ -935,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Memoization
