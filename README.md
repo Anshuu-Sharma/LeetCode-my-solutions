@@ -465,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2580-circular-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2580-circular-sentence) |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -907,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
