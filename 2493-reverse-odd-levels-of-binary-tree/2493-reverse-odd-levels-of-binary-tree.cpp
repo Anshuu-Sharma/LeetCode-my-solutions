@@ -22,6 +22,8 @@ public:
         }
     }
     TreeNode* reverseOddLevels(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         queue<TreeNode*> q;
         q.push(root);
         int level = -1;
