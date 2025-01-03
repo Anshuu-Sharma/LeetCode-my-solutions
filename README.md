@@ -766,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -862,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1037,6 +1039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3189-find-champion-ii) |
@@ -1058,5 +1061,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
