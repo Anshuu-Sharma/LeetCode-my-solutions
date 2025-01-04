@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -890,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3394-minimum-array-end](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3394-minimum-array-end) |
