@@ -29,6 +29,6 @@ public:
                 }
             }
         }
-        return (cnt!=V) ? false:true;
+        return cnt==V;
     }
 };
