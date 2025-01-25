@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
@@ -1100,6 +1102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
