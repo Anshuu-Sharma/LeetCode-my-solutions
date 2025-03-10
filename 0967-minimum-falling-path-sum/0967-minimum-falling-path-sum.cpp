@@ -21,11 +21,13 @@ public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = m;
-        vector<vector<int>> dp(m, vector<int>(n,-1));
+        // vector<vector<int>> dp(m, vector<int>(n,-1));
+        vector<int> prev(n,0);
+        vector<int> curr(n,0);
 
         //Base case
         for(int i = 0; i<n; i++){
-            dp[0][i] = matrix[0][i];
+            prev[i] = matrix[0][i];
         }
 
         // Main code
@@ -34,17 +36,18 @@ public:
                 int straight = INT_MAX;
                 int leftDiag = INT_MAX;
                 int rightDiag = INT_MAX;
-                 straight = matrix[i][j] + dp[i-1][j];
-                if(j-1 >= 0)  leftDiag = matrix[i][j] + dp[i-1][j-1];
-                if(j+1 < n)  rightDiag = matrix[i][j] + dp[i-1][j+1];
-                dp[i][j] = min(straight, min(leftDiag, rightDiag));
+                 straight = matrix[i][j] + prev[j];
+                if(j-1 >= 0)  leftDiag = matrix[i][j] + prev[j-1];
+                if(j+1 < n)  rightDiag = matrix[i][j] + prev[j+1];
+                curr[j] = min(straight, min(leftDiag, rightDiag));
             }
+            prev = curr;
         }
 
         //Finding the minimum value path
-        int mini = dp[m-1][0]; // leting any arbitrary value first
+        int mini = prev[0]; // leting any arbitrary value first
         for(int i = 1; i<n; i++){  
-            mini = min(mini, dp[m-1][i]);
+            mini = min(mini, prev[i]);
         }
         return mini;
     }
