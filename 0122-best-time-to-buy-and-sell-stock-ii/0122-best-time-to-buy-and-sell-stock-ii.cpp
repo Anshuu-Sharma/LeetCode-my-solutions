@@ -1,29 +1,5 @@
 class Solution {
 public:
-    // int recursionHelper(vector<int>& prices, int ind, int buy, int n,vector<vector<int>>& dp){
-    //     if(ind == n) return 0;
-
-    //     if(buy){
-    //         if(dp[ind][buy] != -1){
-    //             return dp[ind][buy];
-    //         }
-    //         else{
-    //          profit = max(-prices[ind] + recursionHelper(prices, ind+1,0,n,dp),
-    //                     0 + recursionHelper(prices, ind+1,1, n,dp));
-    //         }
-    //     } 
-    //     else{
-    //         if(dp[ind][buy] != -1){
-    //             return dp[ind][buy];
-    //         }
-    //         else{
-    //          profit = max(prices[ind] + recursionHelper(prices, ind+1, 1, n,dp),
-    //         0 + recursionHelper(prices, ind+1,0,n,dp));
-    //         }
-    //     }
-    //     return profit;
-    // }
-
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // vector<vector<int>> dp(n, vector<int>(2,-1));
@@ -59,4 +35,33 @@ public:
         return dp[0][1];
 
     }
+
+
+
+
+    // int recursionHelper(vector<int>& prices, int ind, int buy, int n,vector<vector<int>>& dp){
+    //     if(ind == n) return 0;
+
+    //     if(buy){
+    //         if(dp[ind][buy] != -1){
+    //             return dp[ind][buy];
+    //         }
+    //         else{
+    //          profit = max(-prices[ind] + recursionHelper(prices, ind+1,0,n,dp),
+    //                     0 + recursionHelper(prices, ind+1,1, n,dp));
+    //         }
+    //     } 
+    //     else{
+    //         if(dp[ind][buy] != -1){
+    //             return dp[ind][buy];
+    //         }
+    //         else{
+    //          profit = max(prices[ind] + recursionHelper(prices, ind+1, 1, n,dp),
+    //         0 + recursionHelper(prices, ind+1,0,n,dp));
+    //         }
+    //     }
+    //     return profit;
+    // }
+
+    
 };
