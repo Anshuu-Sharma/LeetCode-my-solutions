@@ -10,23 +10,13 @@ public:
                 long profit = 0;
 
                 if(buy){
-            if(dp[ind][buy] != -1)
-            {
-                return dp[ind][buy];
-            }
-            else{
-             profit = max(-prices[ind] + dp[ind+1][0],
+                    profit = max(-prices[ind] + dp[ind+1][0],
                         0 + dp[ind+1][buy]);
-            }
-        } 
+                } 
         else{
-            if(dp[ind][buy] != -1){
-                return dp[ind][buy];
-            }
-            else{
              profit = max(prices[ind] - fee + dp[ind+1][1],
             0 + dp[ind+1][0]);
-            }
+            
         }
             dp[ind][buy] = profit;
             }
