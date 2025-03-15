@@ -1,7 +1,7 @@
 class Solution {
 public:
     int recursionHelper(vector<int>& coins, int amount, int ind, vector<vector<int>>& dp){
-        sort(coins.begin(),coins.end());
+        
         if(ind == 0){
             if(amount % coins[ind] == 0) return dp[ind][amount] = amount/coins[ind];
             else return dp[ind][amount] = 1e9;
@@ -16,6 +16,7 @@ public:
     }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
+        sort(coins.begin(),coins.end());
         vector<vector<int>> dp(n, vector<int>(amount+1, -1));
         int ans = recursionHelper(coins, amount, n-1, dp);
         return ans>=1e9 ? -1 : ans;
