@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -790,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1005-univalued-binary-tree) |
@@ -898,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1005-univalued-binary-tree) |
@@ -1061,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
+| [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1085,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |
