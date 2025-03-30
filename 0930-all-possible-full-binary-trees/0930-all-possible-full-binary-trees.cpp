@@ -11,15 +11,17 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> helper(int n){
-        if (n % 2 == 0) return {}; // No full binary tree possible with even n
-        if (n == 1) return { new TreeNode(0) }; 
+    vector<TreeNode*> helper(int n,   vector<vector<TreeNode*>>& dp){
+        if (n % 2 == 0) return dp[n]={}; // No full binary tree possible with even n
+        if (n == 1) return dp[n] = { new TreeNode(0) }; 
+
+        if (!dp[n].empty()) return dp[n];
 
         vector<TreeNode*> res;
-        for(int l = 0; l<n; l++){
+        for(int l = 1; l<n; l+=2){
             int r = n-1-l;
-            vector<TreeNode*> leftTrees = helper(l);
-            vector<TreeNode*> rightTrees = helper(r);
+            vector<TreeNode*> leftTrees = helper(l, dp);
+            vector<TreeNode*> rightTrees = helper(r, dp);
 
             for(auto it1: leftTrees){
                 for(auto it2: rightTrees){
@@ -27,9 +29,10 @@ public:
                 }
             }
         }
-        return res;
+        return dp[n] = res;
     }
     vector<TreeNode*> allPossibleFBT(int n) {
-        return helper(n);
+        vector<vector<TreeNode*>> dp(n+1);
+        return helper(n, dp);
     }
 };
