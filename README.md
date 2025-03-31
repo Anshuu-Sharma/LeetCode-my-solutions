@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2383-add-two-integers) |
