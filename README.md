@@ -696,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2752-sum-multiples](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2752-sum-multiples) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1137,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2998-count-symmetric-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
 |  |
 | ------- |
