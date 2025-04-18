@@ -590,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
