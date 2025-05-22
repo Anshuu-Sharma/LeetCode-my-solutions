@@ -12,28 +12,21 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-        if(root == NULL) return new TreeNode(val);
-        TreeNode* cur = root;
-        while(true)
-        {
-            if(cur->val <= val)
-            {
-                if(cur->right) cur = cur->right;
-                else
-                {
-                    cur->right = new TreeNode(val);
+        if(root == nullptr) return new TreeNode(val);
+
+        TreeNode* curr = root;
+        while(true){
+            if(curr->val < val){
+                if(curr->right != nullptr) curr = curr->right;
+                else {
+                    curr->right = new TreeNode(val);
                     break;
                 }
             }
-            else
-            {
-                if(cur->left) cur = cur->left;
-                else
-                {
-                    cur->left = new TreeNode(val);
+            else{
+                if(curr->left != nullptr) curr = curr->left;
+                else {
+                    curr->left = new TreeNode(val);
                     break;
                 }
             }
