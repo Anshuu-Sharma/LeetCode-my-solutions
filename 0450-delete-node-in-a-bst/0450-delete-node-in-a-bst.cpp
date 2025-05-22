@@ -11,54 +11,45 @@
  */
 class Solution {
 public:
-    TreeNode* helper(TreeNode* root){
-        if( root->left == NULL ) return root->right;
-        else if( root->right == NULL ) return root->left;
-
-        TreeNode* rightchild = root->right;
-        TreeNode* lastright = findlastright(root->left);
-        lastright->right = rightchild;
-        return root->left;
-    }
-    TreeNode* findlastright(TreeNode* root) {
-        if( root->right == NULL ) return root;
-        return findlastright(root->right);
-    }
-
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-        if( root == NULL ) return NULL;
-
-        if( root->val == key ) return helper(root);
-
+    TreeNode* rightMostFinder(TreeNode* root){
         TreeNode* temp = root;
-        while(root) 
-        {
-            if( root->val > key ) {
-                if( root->left && root->left->val == key )
-                {
-                   root->left = helper(root->left);
-                   break;
-                 }
-                else{
-                    root = root->left;
-                }
-            }
-            else
-            {
-                if( root->right && root->right->val == key )
-                {
-                   root->right = helper(root->right);
-                   break;
-                 }
-                else{
-                    root = root->right;
-                }
-            }
+        while(temp->right){
+            temp = temp->right;
         }
         return temp;
+    }
+    TreeNode* helper(TreeNode* root) {
+        if(root->left == nullptr) return root->right;
+        else if(root->right == nullptr) return root->left;
+        else{
+            TreeNode* rightChild = root->right;
+            TreeNode* lastChild = rightMostFinder(root->left);
+            lastChild->right = rightChild;
+        }
+        return root->left;
+    }
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(root == nullptr) return root;
+        
+        if(root->val == key) return helper(root);
 
+        TreeNode* dummy = root;
+        while(dummy){
+            if(dummy->val > key){
+                if(dummy->left && dummy->left->val == key){
+                    dummy->left = helper(dummy->left);
+                    break;
+                }
+                else dummy = dummy->left;
+            }
+            else{
+                if(dummy->right && dummy->right->val == key){
+                    dummy->right = helper(dummy->right);
+                    break;
+                }
+                else dummy = dummy->right;
+            }
+        }
+        return root;
     }
 };
