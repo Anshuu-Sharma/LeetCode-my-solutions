@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0217-contains-duplicate) |
@@ -805,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -916,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
