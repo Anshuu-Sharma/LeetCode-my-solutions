@@ -12,25 +12,18 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(nullptr);
-      
-        if(root == NULL) return NULL;
-        TreeNode* temp = root;
+        if(root == nullptr) return root;
+        
+        queue<TreeNode*> q;
+        q.push(root);
 
-        while(temp) {
-            if(temp->val == val) return temp;
-
-            else if(temp->val < val){
-                if(temp->right) temp = temp->right;
-                else return NULL;
-            }
-
-            else if(temp->val > val){
-                if(temp->left) temp = temp->left;
-                else return NULL;
-            }
+        while(!q.empty()) {
+            TreeNode* temp = q.front(); q.pop();
+            if(temp && temp->val == val) return temp;
+            
+            else if(temp->val < val && temp->right) q.push(temp->right);
+            else if(temp->val > val && temp->left) q.push(temp->left);
         }
-    return root;
+        return nullptr;
     }
 };
