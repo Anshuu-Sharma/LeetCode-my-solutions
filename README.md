@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -789,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1019,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
