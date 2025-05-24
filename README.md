@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0198-house-robber) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
