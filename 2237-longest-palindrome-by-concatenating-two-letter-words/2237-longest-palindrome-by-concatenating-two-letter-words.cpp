@@ -1,5 +1,6 @@
 class Solution {
 public:
+//KNK
     int longestPalindrome(vector<string>& words) {
         unordered_map<string, int> count;
         for (const string& word : words) {
