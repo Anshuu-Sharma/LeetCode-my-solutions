@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0062-unique-paths) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1167,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
 | [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
