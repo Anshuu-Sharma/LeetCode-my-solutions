@@ -1,36 +1,38 @@
 class Solution {
 public:
-    // int recursionHelper(vector<int>& cuts, int i, int j,vector<vector<int>> dp){
+    // int helper(int i, int j, vector<int>& cuts, vector<vector<int>>& dp) {
     //     if(i>j) return 0;
 
-    //     int mini = INT_MAX;
     //     if(dp[i][j] != -1) return dp[i][j];
-    //     for(int ind = i; ind<=j; ind++){
-    //         int cost = (cuts[j+1] - cuts[i-1]) + recursionHelper(cuts, i,ind-1, dp) + recursionHelper(cuts, ind+1, j,dp);
-
+    //     int mini = INT_MAX;
+    //     for(int k = i; k<=j; k++) {
+    //         int cost = cuts[j+1] - cuts[i-1] + helper(i, k-1, cuts,dp) + helper(k+1, j, cuts, dp);
     //         mini = min(mini, cost);
     //     }
     //     return dp[i][j] = mini;
     // }
     int minCost(int n, vector<int>& cuts) {
-        sort(cuts.begin(),cuts.end());
-        cuts.push_back(n);
-        cuts.insert(cuts.begin(), 0);
-        int c = cuts.size();
+        vector<int> temp = cuts;
+        temp.insert(temp.begin(), 0);
+        temp.push_back(n);
+        sort(temp.begin(), temp.end());
+        int c = temp.size();
+
         vector<vector<long long>> dp(c, vector<long long>(c,0));
-        // return recursionHelper(cuts, 1, c-2, dp);
+        // return helper(1,c-2, temp, dp);
 
-        for(int i = c-2; i>=1; i--){
-            for(int j = i; j<=c-2; j++){
+        for(int i = c-1; i>=1; i--) {
+            for(int j = i; j<=c-2; j++) {
                 long long mini = LONG_MAX;
-                    for(int ind = i; ind<=j; ind++){
-                    long long cost = (cuts[j+1] - cuts[i-1]) + dp[i][ind-1] + dp[ind+1][j];
-
-                    mini = min(mini, cost);
+                for(int k = i; k<=j; k++) {
+                    long long cutCost = temp[j+1] - temp[i-1] + dp[i][k-1] + dp[k+1][j];
+                    mini = min(mini, cutCost);
                 }
-                 dp[i][j] = mini;
+                dp[i][j] = mini;
             }
         }
+
         return dp[1][c-2];
+
     }
 };
