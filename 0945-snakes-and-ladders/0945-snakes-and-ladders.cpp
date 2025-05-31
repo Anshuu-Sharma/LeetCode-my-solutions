@@ -1,5 +1,6 @@
 class Solution {
  public:
+ //KNK
   int snakesAndLadders(vector<vector<int>>& board) {
     const int n = board.size();
     queue<int> q{{1}};
