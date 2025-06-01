@@ -1,24 +1,14 @@
 class Solution {
 public:
-    long long distributeCandies(int n, int limit) {
-        long long cnt = 0;
-        vector<vector<long long>> dp(limit+1, vector<long long>(limit+1,-1));
-        
-
-        for(long long i = 0; i<=limit; i++) {
-            for(long long j = 0; j<=limit; j++) {
-                if(dp[j][i] != -1) {
-                    dp[i][j] = dp[j][i];
-                    if(dp[i][j]==1) cnt++;
-                }
-                else{
-                    long long thirdChild = n - i - j;
-                    if(thirdChild>=0 && thirdChild<=limit) {
-                        dp[i][j] = 1;
-                        cnt++;
-                    }
-                    else dp[i][j] = 0;
-                }
+    int distributeCandies(int n, int limit) {
+        int cnt = 0;
+        int firstMin = max(0, n - limit - limit);
+        int firstMax = min(limit, n);
+        for (int x = firstMin; x <= firstMax; ++x) {
+            int minY = max(0, n - x - limit);
+            int maxY = min(limit, n - x);
+            if (minY <= maxY) {
+                cnt += (maxY - minY + 1);
             }
         }
         return cnt;
