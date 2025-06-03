@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -656,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1104,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1270,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
