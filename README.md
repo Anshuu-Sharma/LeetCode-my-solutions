@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
@@ -798,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1152,6 +1156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
