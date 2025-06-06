@@ -8,14 +8,10 @@
  */
 class Solution {
 public:
-    void deleteNode(ListNode* node) {   
-
-        while(node->next->next != NULL) {
-            ListNode* temp = node->next;
-            node->val = temp->val;
-            node = node->next;
-        }
-        node->val = node->next->val;
-        node->next = NULL;
+    void deleteNode(ListNode* node) {
+    
+        int k = node->next->val;
+        node->val = k;
+        node->next = (node->next)->next;
     }
 };
