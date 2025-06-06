@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
