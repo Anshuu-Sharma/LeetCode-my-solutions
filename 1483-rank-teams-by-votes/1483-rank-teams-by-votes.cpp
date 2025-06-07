@@ -1,44 +1,28 @@
-struct Team {
-    char name;
-    vector<int> rank;
-    Team(char name, int teamSize) : name(name), rank(teamSize) {}
-};
-
 class Solution {
 public:
     string rankTeams(vector<string>& votes) {
-        if (votes.empty()) return "";
-        
-        string firstVote = votes[0];
-        int teamSize = firstVote.size();
-        
-        // Map team name to its index in the teams vector
-        unordered_map<char, int> teamIndex;
-        vector<Team> teams;
-        for (int i = 0; i < teamSize; ++i) {
-            char c = firstVote[i];
-            teamIndex[c] = i;  // Map 'A' → 0, 'B' → 1, etc.
-            teams.emplace_back(c, teamSize);
+        vector<vector<int>> ranks(26, vector<int>(27,0));
+        int n = votes[0].size();
+        if(n==1) return votes[0];
+        // mxn -> here n = 27 because the last column would be used to compare when all columns before 27 would be equal, and that column contains the ASCII values of the char, so the smaller one comes first
+        for(auto it:votes[0]) {
+            ranks[it - 'A'][26] = it;
         }
-        
-        // Count votes using the correct index
-        for (const string& vote : votes) {
-            for (int i = 0; i < teamSize; ++i) {
-                char c = vote[i];
-                ++teams[teamIndex[c]].rank[i];
+
+        for(auto it:votes) {
+            for(int i = 0; i<n; i++) {
+                ranks[it[i] - 'A'][i]--;
             }
         }
-        
-        // Sort teams by rank and name
-        sort(teams.begin(), teams.end(), [](const Team& a, const Team& b) {
-            if (a.rank == b.rank) return a.name < b.name;
-            return a.rank > b.rank;
-        });
-        
-        // Build the result
-        string ans;
-        for (const Team& team : teams)
-            ans += team.name;
+
+        sort(ranks.begin(), ranks.end());
+
+        // n is also helpful in returning the string!!!!!!
+        string ans = "";
+        for(int i = 0; i<n; i++){
+            ans += ranks[i][26];
+        }
         return ans;
+
     }
-};
+};  
