@@ -1,5 +1,6 @@
 class Solution {
  public:
+ //knk
   int maxDiff(int num) {
     const string s = to_string(num);
     int firstNot9 = s.find_first_not_of('9');
