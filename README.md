@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -988,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1060,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1127,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1261,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Monotonic Stack
 |  |
 | ------- |
