@@ -24,6 +24,8 @@ public:
         dfs(root2);
 
         sort(ans.begin(), ans.end());
+
+        // there is a mannual sorting way that makes it 0ms, just make 2 arrays and sort using 2 pointers.
         return ans;
     }
 };
