@@ -18,8 +18,6 @@ public:
         int rh = root->val + dfs(root->right);
 
         return lh + rh - root->val; 
-
-
     }
     vector<int> findFrequentTreeSum(TreeNode* root) {
         unordered_map<int, int> freq;
@@ -27,25 +25,27 @@ public:
         queue<TreeNode*> q;
         q.push(root);
 
+        int maxFreq = INT_MIN;
         while(!q.empty()) {
             TreeNode* temp = q.front(); q.pop();
 
             int sum = dfs(temp);
             freq[sum]++;
+            maxFreq = max(maxFreq, freq[sum]);
 
             if(temp->left) q.push(temp->left);
             if(temp->right) q.push(temp->right);
         }
 
-        int maxi = INT_MIN;
-        for(auto it:freq) {
-            maxi = max(maxi, it.second);
-        }
+        // int maxi = INT_MIN;
+        // for(auto it:freq) {
+        //     maxi = max(maxi, it.second);
+        // }
 
         vector<int> ans;
 
         for(auto it:freq) {
-            if(it.second == maxi) ans.push_back(it.first);
+            if(it.second == maxFreq) ans.push_back(it.first);
         }
 
         return ans;
