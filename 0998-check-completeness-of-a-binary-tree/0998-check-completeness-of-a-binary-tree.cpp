@@ -12,13 +12,12 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        if(!root) return true;
 
         queue<TreeNode*> q;
         q.push(root);
 
         bool foundNull = false;
-        
+
         while(!q.empty()){
             TreeNode* node = q.front();
             q.pop();
