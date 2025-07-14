@@ -1,6 +1,5 @@
 class Solution {
 public:
-//BFS method
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int V = graph.size();
         vector<vector<int>> revGraph(V);
