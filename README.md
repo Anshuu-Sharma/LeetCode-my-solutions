@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1036-rotting-oranges) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -824,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1337,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1444,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Trie
 |  |
@@ -1518,6 +1524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
