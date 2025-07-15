@@ -764,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
