@@ -1,31 +1,45 @@
 class Solution {
- public:
- //KNK
-  int snakesAndLadders(vector<vector<int>>& board) {
-    const int n = board.size();
-    queue<int> q{{1}};
-    vector<bool> seen(1 + n * n);
-    vector<int> arr(1 + n * n);  // 2D -> 1D
-
-    for (int i = 0; i < n; ++i)
-      for (int j = 0; j < n; ++j)
-        arr[(n - 1 - i) * n + ((n - i) % 2 == 0 ? n - j : j + 1)] = board[i][j];
-
-    for (int step = 1; !q.empty(); ++step)
-      for (int sz = q.size(); sz > 0; --sz) {
-        const int curr = q.front();
-        q.pop();
-        for (int next = curr + 1; next <= min(curr + 6, n * n); ++next) {
-          const int dest = arr[next] > 0 ? arr[next] : next;
-          if (dest == n * n)
-            return step;
-          if (seen[dest])
-            continue;
-          q.push(dest);
-          seen[dest] = true;
+public:
+    pair<int, int> getCoordinates(int x,int n){
+        int row = (n-1) - (x-1)/n;
+        int col = (x-1)%n;
+        if(n%2 == 0 && row%2 == 0 || n%2 != 0 && row%2 != 0){
+            col = n-1 - col;
         }
-      }
+        return {row, col};
+    }
+    int snakesAndLadders(vector<vector<int>>& board) {
+        int n = board.size();
+        vector<vector<int>> vis(n, vector<int>(n, false));
+        vis[n-1][0] =true;
+        queue<int> q;
+        q.push(1);
+        int steps = 0;
+        while(!q.empty()) {
+            int siz = q.size();
 
-    return -1;
-  }
+           while(siz--){
+             int num = q.front();
+            q.pop();
+            
+            if(num == n*n) return steps;
+
+            for(int i = 1; i<=6; i++) {
+                if(num + i > n*n) break;
+                    pair<int, int> cord = getCoordinates(num+i, n);
+                 int nr = cord.first;
+                    int nc = cord.second;
+
+                if(vis[nr][nc] == true) continue;
+                vis[nr][nc] = true;
+                if(board[nr][nc] != -1) q.push(board[nr][nc]);
+                else{
+                    q.push(num + i);
+                } 
+            }
+           }
+           steps++;
+        }
+        return -1;
+    }
 };
