@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
