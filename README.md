@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
