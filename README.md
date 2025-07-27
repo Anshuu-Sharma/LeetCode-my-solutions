@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -830,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Math
 |  |
 | ------- |
@@ -1439,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3199-distribute-candies-among-children-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Combinatorics
 |  |
 | ------- |
