@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1294,6 +1295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1553,6 +1555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
 |  |
