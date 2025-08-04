@@ -1,15 +1,22 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+
         vector<int> ans;
-        map<int, int> mpp;
-        int mini = (int)nums.size()/3 + 1;
-        for(int i = 0; i<=nums.size()-1; i++) {
-            mpp[nums[i]]++;
-            if(mpp[nums[i]]==mini) {
-                ans.push_back(nums[i]);
+        int n = nums.size();
+        int k = (int)n/3 + 1;
+        int cnt = 0;
+        int i = 0;
+        while(i<n){
+            int num = nums[i];
+            while(i<n && nums[i] == num){
+                cnt++;
+                i++;
             }
-            if(ans.size() == 2) break;
+            if(cnt >= k) ans.push_back(num);
+            // i++;
+            cnt = 0;
         }
         return ans;
     }
