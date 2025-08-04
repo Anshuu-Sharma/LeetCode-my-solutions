@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0057-insert-interval) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0063-unique-paths-ii) |
