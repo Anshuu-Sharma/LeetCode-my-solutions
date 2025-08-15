@@ -870,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
@@ -1313,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1432,6 +1434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1013-fibonacci-number) |
