@@ -4,7 +4,6 @@ public:
      long long ans = 0;
      int n = nums.size();
      int l = 0;
-      int r = 0;
      for(int i = 0; i<n; i++){
         if(nums[i] == 0){
             long long len = 0;
