@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-cherry-pickup-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1559-cherry-pickup-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -833,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2868-continuous-subarrays) |
