@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
@@ -1449,6 +1451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
