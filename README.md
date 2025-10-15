@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
