@@ -7,9 +7,9 @@ public:
             if(idx+i<n && prev < nums[idx+i]) prev = nums[idx+i];
             else return false;
         }
-
         return true;
     }
+    
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
         int n = nums.size();
         if(2*k>n) return false;
