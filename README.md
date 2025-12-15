@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1331-path-with-maximum-gold](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1331-path-with-maximum-gold) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -684,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -778,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-shortest-common-supersequence) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1250-longest-common-subsequence) |
