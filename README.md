@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2383-add-two-integers) |
