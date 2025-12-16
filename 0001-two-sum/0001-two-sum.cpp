@@ -1,19 +1,22 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
-        int sum;
-        for(int i = 0; i<(nums.size() - 1); i++){
+        // brute force would be O(n2)
+        // unordered_set method is O(nlogn)
+        int n = nums.size();
+        unordered_map<int, int> mpp;
+        for(int i = 0; i<n; i++){
+            mpp[nums[i]] = i;
+        }
 
-            for(int j = i+1; j<nums.size(); j++){
-                sum = nums[i]+ nums[j];
-                if(sum == target) {
-                    ans.push_back(i); 
-                    ans.push_back(j);
-                    }  
+        for(int i = 0; i<n; i++){
+            int left = target - nums[i];
+            if(mpp.find(left) != mpp.end()) {
+                if(mpp[left] != i) return {mpp[left], i};
+                continue;
             }
         }
-    return ans;
-    }
 
+        return {};
+    }
 };
