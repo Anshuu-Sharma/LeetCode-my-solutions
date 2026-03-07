@@ -1,6 +1,7 @@
 class Solution {
  public:
   int minFlips(string s) {
+    //KNK
     const int n = s.length();
     // count[0][0] := the number of 0s in the even indices
     // count[0][1] := the number of 0s in the odd indices
