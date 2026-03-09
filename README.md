@@ -654,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2690-house-robber-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2690-house-robber-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -885,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2529-range-product-queries-of-powers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3714-longest-balanced-substring-ii) |
