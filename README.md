@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
@@ -1401,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1439,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Iterator
 |  |
@@ -1664,4 +1668,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0278-first-bad-version) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
