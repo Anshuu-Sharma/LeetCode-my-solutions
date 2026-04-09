@@ -18,7 +18,7 @@ public:
             }
 
             // The number of valid subarrays ending at 'right' is the window size
-            count += (right - left + 1);
+            count += (right - left + 1);  //--> this formula is for subarrays ending at 'right' and it doesnt count all subarrays
         }
 
         return count;
