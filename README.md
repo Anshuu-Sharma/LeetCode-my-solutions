@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
@@ -1376,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
