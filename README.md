@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
+| [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
@@ -1046,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0542-01-matrix) |
@@ -1192,6 +1194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
