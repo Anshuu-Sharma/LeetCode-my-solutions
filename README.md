@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1045,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -1196,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
@@ -1338,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
@@ -1701,6 +1705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
