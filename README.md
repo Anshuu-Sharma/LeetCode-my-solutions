@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
@@ -930,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
+| [0556-next-greater-element-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0679-24-game) |
 | [0836-rectangle-overlap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0836-rectangle-overlap) |
