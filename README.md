@@ -632,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
@@ -934,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
