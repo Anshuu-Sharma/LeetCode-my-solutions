@@ -1,20 +1,21 @@
 class Solution {
 public:
-    int helper(int n, vector<int>& dp){
-        if(n<=2) return 1;
-
-        if(dp[n] != -1) return dp[n];
-        int maxProd = 1;
-        // int tempProd = 1;
-        for(int i = 1; i<=n/2; i++){
-            int curr = i * max(n-i, helper(n-i, dp));
-            maxProd = max(maxProd, curr);
-        }
-        return dp[n] = maxProd;
-    }
     int integerBreak(int n) {
-        vector<int> dp(n+1, -1);
-        return helper(n, dp);
+        if (n == 2) return 1;
+        if (n == 3) return 2;
 
+        vector<int> dp(n + 1, 0);
+        dp[1] = 1;
+        dp[2] = 2; 
+        dp[3] = 3; 
+
+        for (int i = 4; i <= n; i++) {
+            int currentMax = 0;
+            for (int j = 1; j <= i / 2; j++) {
+                currentMax = max(currentMax, dp[j] * dp[i - j]);
+            }
+            dp[i] = currentMax;
+        }
+        return dp[n];
     }
 };
