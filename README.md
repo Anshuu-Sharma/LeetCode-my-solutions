@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
