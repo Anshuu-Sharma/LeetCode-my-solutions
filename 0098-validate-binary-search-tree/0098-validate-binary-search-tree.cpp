@@ -12,16 +12,35 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        return isValidBST(root, LONG_MIN, LONG_MAX);
-    }
-
-    bool isValidBST(TreeNode* root, long long minval, long long maxval){
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-        if(root == NULL) return true;
-        if(root->val >= maxval || root->val <= minval) return false;
-
-        return isValidBST(root->left, minval, root->val) && isValidBST(root->right, root->val, maxval);
+        if(root == nullptr) return true;
+        long long prev = LLONG_MIN; // To handle INT_MIN nodes
+        TreeNode* curr = root;
+        bool valid = true;
+        while (curr) {
+            if (!curr->left) {
+                // Visit current node
+                if (curr->val <= prev) valid = false;
+                prev = curr->val;
+                curr = curr->right;
+            } else {
+                // Find inorder predecessor of curr
+                TreeNode* pred = curr->left;
+                while (pred->right && pred->right != curr) {
+                    pred = pred->right;
+                }
+                if (!pred->right) {
+                    // Make a temporary link to curr
+                    pred->right = curr;
+                    curr = curr->left;
+                } else {
+                    // Remove the link
+                    pred->right = nullptr;
+                    if (curr->val <= prev) valid =  false;
+                    prev = curr->val;
+                    curr = curr->right;
+                }
+            }
+        }
+        return valid;
     }
 };
