@@ -1,37 +1,97 @@
+class DisjointSet {
+public:
+    vector<int> parent, size;
+
+    DisjointSet(int n) {
+        parent.resize(n);
+        size.resize(n, 1);
+
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+
+    int findUPar(int node) {
+        if(node == parent[node]) return node;
+
+        return parent[node] = findUPar(parent[node]);
+    }
+
+    void unionBySize(int u, int v) {
+
+        int pu = findUPar(u);
+        int pv = findUPar(v);
+
+        if(pu == pv) return;
+
+        if(size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        }
+        else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+};
+
 class Solution {
 public:
-    void dfs(int i, int j, int m, int n, int &area, vector<vector<int>>& visited, vector<vector<int>>& grid){
-        visited[i][j] = 1;
-        area++;
+    int maxAreaOfIsland(vector<vector<int>>& grid) {
+
+        int n = grid.size();
+        int m = grid[0].size();
+
+        DisjointSet ds(n * m);
 
         int drow[] = {-1, 0, 1, 0};
         int dcol[] = {0, 1, 0, -1};
-        for(int k = 0; k<4; k++){
-            int nr = i + drow[k];
-            int nc = j + dcol[k];
 
-            if(nr>=0 && nr<m && nc>=0 && nc<n && !visited[nr][nc] && grid[nr][nc] == 1){
-                dfs(nr, nc, m, n, area, visited, grid);
-            }
-        }
-    }
-    int maxAreaOfIsland(vector<vector<int>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
+        for(int row = 0; row < n; row++) {
 
-        int ans = 0;
+            for(int col = 0; col < m; col++) {
 
-        vector<vector<int>> visited(m ,vector<int>(n, 0));
-        for(int i = 0; i<m; i++){
-            for(int j = 0; j<n; j++){
-                int area = 0;
-                if(visited[i][j] == 0 && grid[i][j] == 1){
-                    dfs(i, j, m, n, area, visited, grid);
+                if(grid[row][col] == 0) continue;
+
+
+                // converting every element of the 2d graph into 1d unique nodes because DJS works on 1d nodes and not 2d matrices
+                int node = row * m + col;
+
+                for(int k = 0; k < 4; k++) {
+
+                    int nrow = row + drow[k];
+                    int ncol = col + dcol[k];
+
+                    if(nrow >= 0 && nrow < n &&
+                       ncol >= 0 && ncol < m &&
+                       grid[nrow][ncol] == 1) {
+
+                        int adjNode = nrow * m + ncol;
+
+                        ds.unionBySize(node, adjNode);
+                    }
                 }
-                ans = max(ans, area);
             }
         }
 
-        return ans;
+        int maxi = 0;
+
+        for(int row = 0; row < n; row++) {
+
+            for(int col = 0; col < m; col++) {
+
+                if(grid[row][col] == 1) {
+
+                    int node = row * m + col;
+
+                    int parent = ds.findUPar(node);
+
+                    maxi = max(maxi, ds.size[parent]);
+                }
+            }
+        }
+
+        return maxi;
     }
 };
+
