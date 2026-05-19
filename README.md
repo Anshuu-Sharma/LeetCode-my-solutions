@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-reorder-data-in-log-files](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0945-snakes-and-ladders) |
+| [0946-validate-stack-sequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0946-validate-stack-sequences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0997-find-the-town-judge) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0946-validate-stack-sequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0946-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -1574,6 +1576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
+| [0946-validate-stack-sequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0946-validate-stack-sequences) |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
