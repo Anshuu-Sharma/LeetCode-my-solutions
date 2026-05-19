@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0824-number-of-lines-to-write-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0824-number-of-lines-to-write-string) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0837-most-common-word) |
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0796-rotate-string) |
@@ -1388,6 +1391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
