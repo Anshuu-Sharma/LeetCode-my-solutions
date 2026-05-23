@@ -6,9 +6,11 @@ public:
         int n = s.size();
         int m = t.size();
         int minlen = INT_MAX;
+
         for (int i = 0; i < m; i++) {
             hash[t[i]]++;
         }
+        
         while (r < n) {
             if (hash[s[r]] > 0) cnt++;
             hash[s[r]]--;
