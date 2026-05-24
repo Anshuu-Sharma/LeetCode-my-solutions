@@ -1,55 +1,32 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
-private:
-    TreeNode* first;
-    TreeNode* middle;
-    TreeNode* last;
-    TreeNode* prev;
-    
-private:
-       void inorder(TreeNode* root) {
-        if(root == nullptr) return;
+    TreeNode *first = NULL, *second = NULL, *prev = NULL;
 
+    void inorder(TreeNode* root) {
+        if (!root) return;
+        
         inorder(root->left);
-
-        if(prev != nullptr && (root->val < prev->val)){
-
-            if(first == nullptr){
+        
+        // If the previous node is greater than the current node, we found a violation
+        if (prev != NULL && prev->val > root->val) {
+            // The first node is the 'prev' at the first violation
+            if (first == NULL) {
                 first = prev;
-                middle = root;
             }
-            
-            else{
-                last = root;
-            }
-
+            // The second node is always the current 'root'
+            // This works for both adjacent and non-adjacent swaps
+            second = root;
         }
-
-            prev = root;
-            inorder(root->right);
-
+        
+        prev = root;
+        inorder(root->right);
     }
+
 public:
-
-     void recoverTree(TreeNode* root) {
-        ios::sync_with_stdio(false); cin.tie(nullptr);
-
-        first = middle = last = nullptr;
-        prev = new TreeNode(INT_MIN);
+    void recoverTree(TreeNode* root) {
         inorder(root);
-
-        if(first && last) swap(first->val, last->val);
-        else if(first && middle) swap(first->val, middle->val);
-    } 
-    
+        // Swap the values of the two identified nodes
+        if (first && second) {
+            swap(first->val, second->val);
+        }
+    }
 };
