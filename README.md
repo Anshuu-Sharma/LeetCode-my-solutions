@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
