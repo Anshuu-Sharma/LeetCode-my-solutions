@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
@@ -561,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0875-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1004-max-consecutive-ones-iii) |
