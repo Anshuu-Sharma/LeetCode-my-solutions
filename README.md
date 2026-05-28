@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1093,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0946-validate-stack-sequences) |
@@ -1559,6 +1561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
