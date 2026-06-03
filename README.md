@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0930-all-possible-full-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -1073,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1612,6 +1615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
