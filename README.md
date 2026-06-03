@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0817-linked-list-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0817-linked-list-components) |
 | [0824-number-of-lines-to-write-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0837-most-common-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0837-most-common-word) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0782-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0817-linked-list-components) |
 | [0837-most-common-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0837-most-common-word) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1546,6 +1548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0817-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
