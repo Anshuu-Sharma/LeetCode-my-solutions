@@ -19,9 +19,6 @@ public:
         return temp;
     }
     ListNode* rotateRight(ListNode* head, int k) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
         if(head == NULL || head->next == NULL) return head;
         int len = 1;
         ListNode* tail  = head;
