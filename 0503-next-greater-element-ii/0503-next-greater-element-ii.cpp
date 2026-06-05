@@ -4,6 +4,7 @@ public:
         int n = a.size();
         vector<int>v(n,-1);
 
+        // circular array mein we do 2*n elements i.e. duplicate the array and place it at the end of original one
         stack<int>st;
         for(int i = 2*n - 1; i >= 0; i--)
         {
