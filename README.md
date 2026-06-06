@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -751,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0229-majority-element-ii) |
@@ -1025,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0326-power-of-three) |
