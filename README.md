@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0815-bus-routes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0815-bus-routes) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1177,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
@@ -1340,6 +1343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -1492,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0752-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1650,6 +1655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -1893,6 +1899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
