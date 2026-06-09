@@ -1,49 +1,67 @@
-class Solution {
+class DisjointSet {
+    vector<int> parent, size;
 public:
-
-    void dfs(int row, int col, vector<vector<int>> &vis, vector<vector<char>>& board, int drow[], int dcol[]){
-        vis[row][col] = 1;
-
-        int m = board.size();
-        int n = board[0].size();
-
-        for(int i = 0; i<4; i++){
-            int nrow = row + drow[i];
-            int ncol = col + dcol[i];
-
-            if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && vis[nrow][ncol] == 0 && board[nrow][ncol] == 'O'){
-                dfs(nrow, ncol, vis, board, drow, dcol);
-            }
+    DisjointSet(int n) {
+        parent.resize(n + 1);
+        size.resize(n + 1, 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
         }
     }
+    int findUPar(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+    void unionBySize(int u, int v) {
+        int pu = findUPar(u);
+        int pv = findUPar(v);
+        if (pu == pv) return;
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+};
+
+class Solution {
+public:
     void solve(vector<vector<char>>& board) {
+        if (board.empty()) return;
         int m = board.size();
         int n = board[0].size();
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
-        vector<vector<int>> vis(m, vector<int>(n, 0));
+        DisjointSet ds(m * n + 1);
+        int dummy = m * n;
 
-        for(int i = 0; i<n; i++){
-            if(!vis[0][i] && board[0][i] == 'O') {
-                dfs(0,i,vis,board,drow,dcol);
-            }
-            if(!vis[m-1][i] && board[m-1][i] == 'O') {
-                dfs(m-1,i,vis,board,drow,dcol);
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 'O') {
+                    if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
+                        ds.unionBySize(i * n + j, dummy);
+                    } else {
+                        for (int k = 0; k < 4; k++) {
+                            int ni = i + dr[k];
+                            int nj = j + dc[k];
+                            if (ni >= 0 && ni < m && nj >= 0 && nj < n && board[ni][nj] == 'O') {
+                                ds.unionBySize(i * n + j, ni * n + nj);
+                            }
+                        }
+                    }
+                }
             }
         }
 
-        for(int i = 0; i<m; i++){
-            if(!vis[i][0] && board[i][0] == 'O') {
-                dfs(i,0,vis,board,drow,dcol);
-            }
-            if(!vis[i][n-1] && board[i][n-1] == 'O') {
-                dfs(i,n-1,vis,board,drow,dcol);
-            }
-        }
-
-        for(int i = 0; i<m; i++){
-            for(int j = 0; j<n; j++){
-                if(!vis[i][j] && board[i][j] == 'O') board[i][j] = 'X';
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 'O' && ds.findUPar(i * n + j) != ds.findUPar(dummy)) {
+                    board[i][j] = 'X';
+                }
             }
         }
     }
