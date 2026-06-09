@@ -40,22 +40,26 @@ public:
         int dc[] = {0, 1, 0, -1};
 
         for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') {
-                    if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                        ds.unionBySize(i * n + j, dummy);
-                    } else {
-                        for (int k = 0; k < 4; k++) {
-                            int ni = i + dr[k];
-                            int nj = j + dc[k];
-                            if (ni >= 0 && ni < m && nj >= 0 && nj < n && board[ni][nj] == 'O') {
-                                ds.unionBySize(i * n + j, ni * n + nj);
-                            }
-                        }
-                    }
-                }
+    for (int j = 0; j < n; j++) {
+        if (board[i][j] == 'O') {
+            
+            // 1. If it's a boundary, connect to dummy
+            if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
+                ds.unionBySize(i * n + j, dummy);
+            } 
+            
+            // 2. EVERY 'O' cell (boundary or not) looks Top and Left
+            // Look Top
+            if (i > 0 && board[i - 1][j] == 'O') {
+                ds.unionBySize(i * n + j, (i - 1) * n + j);
+            }
+            // Look Left
+            if (j > 0 && board[i][j - 1] == 'O') {
+                ds.unionBySize(i * n + j, i * n + (j - 1));
             }
         }
+    }
+}
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
