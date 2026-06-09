@@ -1389,6 +1389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
@@ -1546,6 +1547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1919,6 +1921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1930,6 +1933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Doubly-Linked List
 |  |
 | ------- |
