@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1972-rotating-the-box) |
 | [1980-find-unique-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1980-find-unique-binary-string) |
+| [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2058-concatenation-of-array) |
@@ -1202,6 +1203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1972-rotating-the-box) |
+| [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2089-maximum-matrix-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1385,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1543,6 +1546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1731-even-odd-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
+| [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
