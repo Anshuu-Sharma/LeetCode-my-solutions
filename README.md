@@ -817,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1292,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2384-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1389,6 +1391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1468,6 +1471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2384-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1549,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
