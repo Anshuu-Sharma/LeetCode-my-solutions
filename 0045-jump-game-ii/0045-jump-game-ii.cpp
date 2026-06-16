@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(nullptr);
-        int jumps = 0;
-
-        int l = 0;
-        int r = 0;
-        while (r < (nums.size()-1)) {
-            int farthest = 0;
-            for (int i = l; i <= r; i++) {
-                farthest = max(i + nums[i], farthest);
-            }
-                l = r + 1;
-                jumps = jumps + 1;
-                r = farthest;
+    int helper(int ind, vector<int>& nums, vector<int>& memo){
+        if(ind >= nums.size() - 1) return 0; // Reached the end
+        if(memo[ind] != -1) return memo[ind]; // Return cached result
+        
+        int ans = 1e9;
+        
+        // Jump forward based on the CURRENT index's capacity
+        for(int i = 1; i <= nums[ind]; i++){
+            ans = min(ans, 1 + helper(ind + i, nums, memo));
         }
-            return jumps;
+        
+        return memo[ind] = ans; // Save to cache
+    }
+    
+    int jump(vector<int>& nums) {
+        vector<int> memo(nums.size(), -1);
+        return helper(0, nums, memo);
     }
 };
