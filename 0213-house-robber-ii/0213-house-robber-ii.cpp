@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int dp_helper(vector<int> nums){
+    int dp_helper(vector<int>& nums){
         int n = nums.size();
         vector<int> dp(n+1, 0);
     
