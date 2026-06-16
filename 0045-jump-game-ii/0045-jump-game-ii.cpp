@@ -15,7 +15,16 @@ public:
     }
     
     int jump(vector<int>& nums) {
-        vector<int> memo(nums.size(), -1);
-        return helper(0, nums, memo);
+        int n = nums.size();
+        vector<int> memo(nums.size(), 1e9);
+
+        memo[n-1] = 0;
+        for(int i = n-2; i>=0; i--){
+            for(int j = 1; j <= nums[i]; j++){
+                if(i+j < n) memo[i] = min(memo[i], 1 + memo[i+j]);
+            }
+        }   
+
+        return memo[0];
     }
 };
