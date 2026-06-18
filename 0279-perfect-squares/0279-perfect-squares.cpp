@@ -1,20 +1,25 @@
 class Solution {
-    vector<vector<int>> memo;
 public:
-    int helper(int num, int target) {
-        if (target == 0) return 0;
-        if (num * num > target) return 1e9;
-        if (memo[num][target] != -1) return memo[num][target];
-        
-        int take = 1 + helper(num, target - (num * num));
-        int notTake = helper(num + 1, target);
-        
-        return memo[num][target] = min(take, notTake);
-    }
-
     int numSquares(int n) {
-        int limit = sqrt(n) + 1;
-        memo.assign(limit + 1, vector<int>(n + 1, -1));
-        return helper(1, n);
+        int limit = sqrt(n);
+        vector<vector<int>> dp(limit + 2, vector<int>(n + 1, 1e9));
+        
+        for (int num = 0; num <= limit + 1; ++num) {
+            dp[num][0] = 0;
+        }
+        
+        for (int num = limit; num >= 1; --num) {
+            for (int target = 1; target <= n; ++target) {
+                int take = 1e9;
+                if (num * num <= target) {
+                    take = 1 + dp[num][target - (num * num)];
+                }
+                int notTake = dp[num + 1][target];
+                
+                dp[num][target] = min(take, notTake);
+            }
+        }
+        
+        return dp[1][n];
     }
 };
