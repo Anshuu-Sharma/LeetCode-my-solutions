@@ -1,46 +1,44 @@
 class Solution {
-    // Memoization table: -1 means uncalculated, 0 means false, 1 means true
-    vector<vector<int>> memo;
-    
-    bool solve(int i, int j, const string& s1, const string& s2, const string& s3) {
-        // Base case: If we have reached the end of both s1 and s2 successfully
-        if (i == s1.length() && j == s2.length()) {
-            return true;
-        }
-        
-        // Return cached result if already computed
-        if (memo[i][j] != -1) {
-            return memo[i][j] == 1;
-        }
-        
-        bool ans = false;
-        
-        // Choice 1: Use a character from s1
-        if (i < s1.length() && s1[i] == s3[i + j]) {
-            ans = ans || solve(i + 1, j, s1, s2, s3);
-        }
-        
-        // Choice 2: Use a character from s2
-        if (j < s2.length() && s2[j] == s3[i + j]) {
-            ans = ans || solve(i, j + 1, s1, s2, s3);
-        }
-        
-        // Store the result in memo table and return
-        memo[i][j] = ans ? 1 : 0;
-        return ans;
-    }
-    
 public:
     bool isInterleave(string s1, string s2, string s3) {
-        // Initial length check
-        if (s1.length() + s2.length() != s3.length()) {
-            return false;
+        int m = s1.length();
+        int n = s2.length();
+        
+        // If combined lengths don't match, it's impossible outright
+        if (m + n != s3.length()) return false;
+        
+        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
+        
+        // BASE CASES
+        
+        // 1. Both strings are empty
+        dp[0][0] = true;
+        
+        // 2. s2 is empty: Can s1 alone form the beginning of s3?
+        for (int i = 1; i <= m; i++) {
+            dp[i][0] = dp[i - 1][0] && s1[i - 1] == s3[i - 1];
         }
         
-        // Initialize memoization table with -1
-        memo.assign(s1.length() + 1, vector<int>(s2.length() + 1, -1));
+        // 3. s1 is empty: Can s2 alone form the beginning of s3?
+        for (int j = 1; j <= n; j++) {
+            dp[0][j] = dp[0][j - 1] && s2[j - 1] == s3[j - 1];
+        }
         
-        // Start recursion from the beginning of both strings
-        return solve(0, 0, s1, s2, s3);
+        // ==========================================
+        //               MAIN DP LOOP
+        // ==========================================
+        
+        // Start from 1 since the 0th row and column are already processed
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                
+                // We can reach the current state either by:
+                // Taking a char from s1 (if it matches) OR taking a char from s2 (if it matches)
+                dp[i][j] = (dp[i - 1][j] && s1[i - 1] == s3[i + j - 1]) || 
+                           (dp[i][j - 1] && s2[j - 1] == s3[i + j - 1]);
+            }
+        }
+        
+        return dp[m][n];
     }
 };
