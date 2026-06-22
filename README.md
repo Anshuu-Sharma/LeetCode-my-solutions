@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1854-maximum-population-year](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1114,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2050-count-good-numbers) |
@@ -1885,6 +1887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0836-rectangle-overlap) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Trie
 |  |
 | ------- |
