@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0217-contains-duplicate) |
@@ -936,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0392-is-subsequence) |
@@ -1241,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
@@ -1885,6 +1888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0679-24-game) |
 | [1079-letter-tile-possibilities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1079-letter-tile-possibilities) |
@@ -1907,6 +1911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
