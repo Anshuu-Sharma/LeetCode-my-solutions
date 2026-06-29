@@ -2066,5 +2066,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
