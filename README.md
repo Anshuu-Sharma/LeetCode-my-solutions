@@ -2057,6 +2057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1484-group-sold-products-by-the-date](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1757-recyclable-and-low-fat-products) |
