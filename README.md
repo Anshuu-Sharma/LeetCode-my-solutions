@@ -795,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -1166,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
