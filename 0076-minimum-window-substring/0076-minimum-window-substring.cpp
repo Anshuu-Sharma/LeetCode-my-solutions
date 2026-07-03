@@ -15,7 +15,7 @@ public:
             if (hash[s[r]] > 0) cnt++;
             hash[s[r]]--;
 
-            while (cnt == m) {
+            while (cnt == m) { 
                 if((r - l + 1 ) < minlen){
                     minlen = r - l + 1;
                     sindex = l;
