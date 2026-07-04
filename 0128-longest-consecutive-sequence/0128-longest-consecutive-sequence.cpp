@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     class DisjointSet {
     public:
         vector<int> parent, size;
@@ -46,7 +45,6 @@ public:
         unordered_map<int, int> mpp;
 
         for(int i = 0; i < n; i++) {
-
             // skip duplicates
             if(mpp.find(nums[i]) != mpp.end()) continue;
 
