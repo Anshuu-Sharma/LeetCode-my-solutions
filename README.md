@@ -2040,6 +2040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
