@@ -20,16 +20,25 @@ public:
     }
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL || head->next == NULL) return head;
+
         int len = 1;
+
+        // calculated length of LL
         ListNode* tail  = head;
         while(tail->next != NULL) {
             len++; tail = tail->next;
         }
-        if(k%len == 0){ return head;}
+
+        // if rotation is 0 then no change
+        if(k%len == 0) return head;
+
+        // because after n, the values of k gets repeated as number of rotations range: 0 to n
         k=k%len;  
-       
+
+        // connecting the tail to head
         tail->next = head;
 
+        // break at the rotated point
         ListNode* detach = pointNode(head, k,len);
         head = detach->next;
         detach->next = NULL;
