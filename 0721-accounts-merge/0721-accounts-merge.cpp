@@ -1,5 +1,4 @@
 // definining disjoing set and its functions
-
 class DisjointSet {
 public:
     vector<int> parent, size;
@@ -51,7 +50,7 @@ public:
                 else mpp[s] = i;
             }
         }
-
+ 
         vector<vector<string>> mergedMails(n);
         for(auto it:mpp) {
             string mail = it.first;
