@@ -953,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -1423,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1768,6 +1770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
@@ -1941,6 +1944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
