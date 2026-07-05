@@ -7,7 +7,7 @@ public:
             int mid = (low+high)/2;
             if(nums[mid] == target) return true;
 
-            // new condition -> if we have equal value at l,m,h then we cant compare for choosing the next half
+            // new condition, rest same as I part -> if we have equal value at l,m,h then we cant compare for choosing the next half
             if(nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
