@@ -724,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -951,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -1923,6 +1925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0679-24-game) |
