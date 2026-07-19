@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2233-maximum-product-after-k-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1224,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2233-maximum-product-after-k-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1832,6 +1834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
+| [2233-maximum-product-after-k-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
