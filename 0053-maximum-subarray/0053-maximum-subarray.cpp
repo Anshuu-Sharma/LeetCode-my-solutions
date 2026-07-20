@@ -1,22 +1,17 @@
 class Solution {
 public:
+    // sliding window
     int maxSubArray(vector<int>& nums) {
-        int maxSum  = INT_MIN;
-        int n = nums.size();
-        int l = 0;
-        int r = 0;
-
+        int n = nums.size(), r = 0;
         int sum = 0;
+        int ans = INT_MIN;
         while(r<n){
             if(sum<0){
-                while(sum!=0){
-                    sum-=nums[l++];
-                }
+                sum = 0;
             }
-            sum += nums[r];
-            maxSum = max(maxSum, sum);
-            r++;
+            sum += nums[r++];
+            ans = max(ans, sum);
         }
-        return maxSum;
+        return ans;
     }
 };
