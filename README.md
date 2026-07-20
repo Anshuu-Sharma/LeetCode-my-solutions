@@ -2135,6 +2135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1075-project-employees-i) |
 | [1193-monthly-transactions-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1193-monthly-transactions-i) |
