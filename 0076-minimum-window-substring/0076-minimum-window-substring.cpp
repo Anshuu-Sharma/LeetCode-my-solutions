@@ -2,11 +2,13 @@ class Solution {
 public:
     string minWindow(string s, string t) {
         vector<int> hash(256,0);
-        int l = 0, r = 0, sindex = -1, cnt = 0;
         int n = s.size();
         int m = t.size();
         int minlen = INT_MAX;
+        // l = left index, r = right index of window, sindex = starting index of ans string, cnt = count of elemnent of t
+        int l = 0, r = 0, sindex = -1, cnt = 0;
 
+        // hash for string t
         for (int i = 0; i < m; i++) {
             hash[t[i]]++;
         }
