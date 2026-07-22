@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2931-maximum-spending-after-buying-items) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
@@ -907,6 +908,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1055,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -2001,6 +2004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Graph
 |  |
 | ------- |
