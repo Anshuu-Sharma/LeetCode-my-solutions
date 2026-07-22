@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -650,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -888,6 +890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1228,6 +1231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1448-maximum-69-number) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -1850,6 +1854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2233-maximum-product-after-k-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2233-maximum-product-after-k-increments) |
