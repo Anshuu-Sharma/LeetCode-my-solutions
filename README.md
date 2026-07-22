@@ -1533,6 +1533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1699,6 +1700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -2107,6 +2109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -2120,6 +2123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Doubly-Linked List
