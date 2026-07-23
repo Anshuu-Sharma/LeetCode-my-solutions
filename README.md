@@ -473,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2677-cousins-in-binary-tree-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -1105,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
