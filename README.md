@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0474-ones-and-zeroes) |
@@ -1091,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
