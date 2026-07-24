@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1854-maximum-population-year](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1854-maximum-population-year) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [1901-find-a-peak-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1961-maximum-ice-cream-bars](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -1137,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1854-maximum-population-year](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1854-maximum-population-year) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -1193,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2050-count-good-numbers) |
@@ -1348,6 +1352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1972-rotating-the-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1972-rotating-the-box) |
 | [1992-find-all-groups-of-farmland](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1992-find-all-groups-of-farmland) |
@@ -1870,6 +1875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2233-maximum-product-after-k-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
