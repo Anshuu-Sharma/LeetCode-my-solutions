@@ -1048,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1116,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
