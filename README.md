@@ -1218,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2752-sum-multiples) |
@@ -1281,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
