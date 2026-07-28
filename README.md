@@ -608,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -910,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -964,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1854-maximum-population-year) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1050,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
