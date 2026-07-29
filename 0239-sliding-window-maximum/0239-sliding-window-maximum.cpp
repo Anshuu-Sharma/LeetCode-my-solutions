@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        // monotonic increasing deque 
+        // monotonic decreasing deque 
         deque<int> dq;
         vector<int> ans;
         int n = nums.size();
