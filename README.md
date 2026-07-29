@@ -993,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
@@ -1184,6 +1185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0062-unique-paths) |
@@ -1953,6 +1955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
