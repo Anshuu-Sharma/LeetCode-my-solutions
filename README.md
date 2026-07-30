@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-cherry-pickup-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1580-shuffle-the-array) |
@@ -609,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
