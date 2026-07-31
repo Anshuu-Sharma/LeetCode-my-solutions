@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -1360,6 +1362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0542-01-matrix) |
@@ -1442,6 +1445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
