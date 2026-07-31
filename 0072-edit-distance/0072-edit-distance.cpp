@@ -14,20 +14,28 @@ public:
         int n1 = s1.size();
         int n2 = s2.size();
 
-        vector<vector<int>> dp(n1+1, vector<int>(n2+1,-1));
+        // vector<vector<int>> dp(n1+1, vector<int>(n2+1,-1));
+        vector<int> prev(n2 + 1, 0), curr(n2 + 1, 0);
         // return helper(n1-1, n2-1, word1, word2,dp);
 
         // Base cases
-        for(int i = 0; i<=n1; i++) dp[i][0] = i;
-        for(int i = 0; i<=n2; i++) dp[0][i] = i;
+        // for(int i = 0; i<=n1; i++) dp[i][0] = i;
+        for(int i = 0; i<=n2; i++) prev[i] = i;
 
         for(int ind1 = 1; ind1<=n1; ind1++) {
+            curr[0] = ind1;
             for(int ind2 = 1; ind2<=n2; ind2++) {
-                if(s1[ind1-1] == s2[ind2-1]) dp[ind1][ind2] =  0 + dp[ind1-1][ind2-1];
-                else dp[ind1][ind2] = min(1+ dp[ind1-1][ind2] , min(1 + dp[ind1][ind2-1], 1 + dp[ind1-1][ind2-1])); 
+                if(s1[ind1-1] == s2[ind2-1]) curr[ind2] = prev[ind2-1];
+
+                else curr[ind2] = 1 + min({
+                        prev[ind2],     // Delete
+                        curr[ind2 - 1], // Insert
+                        prev[ind2 - 1]  // Replace
+                });
             }
+            prev = curr;
         } 
-        return dp[n1][n2];
+        return prev[n2];
 
 
 
