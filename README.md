@@ -738,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2868-continuous-subarrays) |
@@ -897,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -1334,6 +1336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0735-asteroid-collision) |
+| [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0946-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1896,6 +1899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Iterator
 |  |
