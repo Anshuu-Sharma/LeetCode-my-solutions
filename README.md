@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1690-stone-game-vii) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -836,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1690-stone-game-vii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1690-stone-game-vii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -1248,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1690-stone-game-vii) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -2040,6 +2043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1563-stone-game-v) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1690-stone-game-vii) |
 ## Enumeration
 |  |
 | ------- |
