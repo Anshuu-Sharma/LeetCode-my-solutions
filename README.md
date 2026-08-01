@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1834-single-threaded-cpu](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -1245,6 +1247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 | [1761-count-sorted-vowel-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1305,6 +1308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-furthest-building-you-can-reach](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -1941,6 +1945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 | [1753-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -2034,6 +2039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1563-stone-game-v) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1686-stone-game-vi](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1686-stone-game-vi) |
 ## Enumeration
 |  |
 | ------- |
