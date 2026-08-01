@@ -827,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1235,6 +1236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1448-maximum-69-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1448-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1635-number-of-good-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1635-number-of-good-pairs) |
@@ -2026,6 +2028,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1510-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
