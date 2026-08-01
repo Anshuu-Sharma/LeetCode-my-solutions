@@ -1,17 +1,16 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& a, vector<int>& b) {
-            std::ios_base::sync_with_stdio(false);
-    std::cin.tie(NULL);
-    std::cout.tie(NULL);
         int n1 = a.size();
         int n2 = b.size();
         if(n1 > n2) {
             return findMedianSortedArrays(b,a);
         }
 
+        // selecting the number of elements of larger array to be taken in the left half
         int low = 0, high = n1;
-        int left = (n1+n2+1)/2;
+        // number of elements to be present in the left half
+        int left = (n1+n2+1)/2; ;// works for both even and odd
         int n = n1 + n2;
         while(low <= high) {
             int mid1 = (low + high) >> 1;
