@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0874-walking-robot-simulation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1048-longest-string-chain) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -607,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-k-th-smallest-prime-fraction](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 | [0937-reorder-data-in-log-files](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0937-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1301,6 +1304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -2279,4 +2283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
