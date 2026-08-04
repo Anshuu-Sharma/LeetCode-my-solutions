@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -1176,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -1293,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
