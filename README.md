@@ -882,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -1870,6 +1871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0206-reverse-linked-list) |
@@ -1926,6 +1928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -2257,6 +2260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Rolling Hash
 |  |
