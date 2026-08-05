@@ -1,5 +1,6 @@
 class Solution {
 public:
+// O(1) extra space!
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> ans(n,0);
