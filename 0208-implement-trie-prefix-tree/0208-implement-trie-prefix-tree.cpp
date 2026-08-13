@@ -1,52 +1,49 @@
 class TrieNode{
-    public:
+public:
     TrieNode* children[26];
-    bool isEndofWord;
+    bool isEnd;
 
     TrieNode(){
-        isEndofWord = false;
+        isEnd = false;
         for(int i = 0; i<26; i++){
             children[i] = nullptr;
         }
     }
 };
-
 class Trie {
 private:
     TrieNode* root;
 public:
     Trie() {
-        root = new TrieNode();
+      root = new TrieNode();
     }
     
     void insert(string word) {
         TrieNode* node = root;
-        for(char c:word){
-            int index = c - 'a';
-            // if char c is not present then add it
+        for(char it:word){
+            int index = it - 'a';
             if(node->children[index] == nullptr){
                 node->children[index] = new TrieNode();
             }
 
-            // if char c is present then that prefix already exists
             node = node->children[index];
         }
-        node->isEndofWord = true;
+        node->isEnd = true;
+    }   
+    // very good e.g. of function overloading
+    void insert(vector<string>& dictionary){
+        for(auto& word: dictionary)
+            insert(word);
     }
     
     bool search(string word) {
         TrieNode* node = root;
         for(char c:word){
             int index = c - 'a';
-
-            // if that char is not present then it means that word is not present
-            if(node->children[index] == nullptr){
-                return false;
-            }
-            // if that char is present then move forward and check rest chars
+            if(node->children[index] == nullptr) return false;
             node = node->children[index];
         }
-        return node->isEndofWord;
+        return node->isEnd;
     }
     
     bool startsWith(string prefix) {
