@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1306-jump-game-iii) |
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1048-longest-string-chain) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1366-rank-teams-by-votes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -1080,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1963,6 +1967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -2135,6 +2140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0692-top-k-frequent-words) |
+| [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
