@@ -2343,5 +2343,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
