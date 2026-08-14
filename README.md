@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-k-closest-points-to-origin](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1020-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1020-number-of-enclaves) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1036-rotting-oranges) |
@@ -1425,6 +1426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-available-captures-for-rook](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0999-available-captures-for-rook) |
+| [1020-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1617,6 +1619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1792,6 +1795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
@@ -2248,6 +2252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
