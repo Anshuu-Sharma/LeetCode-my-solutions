@@ -1631,6 +1631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-deepest-leaves-sum) |
@@ -2284,6 +2285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1462-course-schedule-iv) |
@@ -2354,4 +2356,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
