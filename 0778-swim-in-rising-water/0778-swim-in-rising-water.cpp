@@ -1,8 +1,3 @@
-#include <vector>
-#include <numeric>
-
-using namespace std;
-
 // Standard Union-Find structure with path compression and union by size
 class UnionFind {
     vector<int> parent, size;
