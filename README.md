@@ -2348,5 +2348,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
