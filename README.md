@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0907-koko-eating-bananas) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -930,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -1164,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0992-subarrays-with-k-different-integers) |
