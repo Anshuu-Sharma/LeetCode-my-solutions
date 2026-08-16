@@ -16,6 +16,7 @@ public:
             slow = slow->next;
             fast = fast->next->next;
 
+            // after loop is discovered we shift slow to head to find the start point, 
             if (slow == fast) {
                 slow = head;
                 while (slow != fast) {
