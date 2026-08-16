@@ -14,6 +14,10 @@ public:
                 l = nl;
                 r = nr;
             }
+            /*
+            l......r
+               nl....nr
+            */
             l = max(l, nl);
             r = min(r, nr);
         }
