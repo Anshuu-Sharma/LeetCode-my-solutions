@@ -1917,6 +1917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
+| [0725-split-linked-list-in-parts](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0817-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1072-next-greater-node-in-linked-list) |
