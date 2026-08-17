@@ -15,6 +15,7 @@ public:
             curr = curr->next;
         }
 
+        // for second last node, because the second last node becomes last node
         curr->val = curr->next->val;
         curr->next = nullptr;
     }
