@@ -2,21 +2,22 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         // first find next greater element of nums 2
+        // monotonic decreasing stack
         unordered_map<int, int> mpp;
         stack<int> st;
 
         int n2 = nums2.size();
-        for(int i = n2-1; i>=0; i--){
-            while(!st.empty() && st.top() < nums2[i]){
+        for (int i = n2 - 1; i >= 0; i--) {
+            while (!st.empty() && st.top() < nums2[i]) {
                 st.pop();
             }
             // If stack is empty, no greater element exists
-    if (st.empty()) {
-        mpp[nums2[i]] = -1;
-    } else {
-        // Otherwise, top is the next greater
-        mpp[nums2[i]] = st.top();
-    }
+            if (st.empty()) {
+                mpp[nums2[i]] = -1;
+            } else {
+                // Otherwise, top is the next greater
+                mpp[nums2[i]] = st.top();
+            }
             st.push(nums2[i]);
         }
         vector<int> ans;
@@ -28,6 +29,5 @@ public:
             }
         }
         return ans;
-
     }
 };
