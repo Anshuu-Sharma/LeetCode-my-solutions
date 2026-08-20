@@ -1,46 +1,59 @@
 class Solution {
 public:
-
-    void markrow(vector<vector<int>>& matrix,int row, int m) {
-        for(int j = 0; j<m; j++) {
-            if(matrix[row][j] != 0) {
-                matrix[row][j] = -1111;
-            }
-        }
-    }
-
-    void markcol(vector<vector<int>>& matrix,int col, int n){
-        for(int j = 0; j<n; j++) {
-            if(matrix[j][col] != 0) {
-                matrix[j][col] = -1111;
-            }
-        }
-    }
     void setZeroes(vector<vector<int>>& matrix) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
-        int n = matrix.size();
-        int m = matrix[0].size();
-        bool ahead = false;
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<m; j++) {
-                if(matrix[i][j] == 0){
-                    markrow(matrix,i,m);
-                    markcol(matrix,j,n);
-                    ahead = true;
+        int m = matrix.size();
+        int n = matrix[0].size();
+        
+        bool firstRowZero = false;
+        bool firstColZero = false;
+        
+        // Check if the first row has any zeroes
+        for (int j = 0; j < n; j++) {
+            if (matrix[0][j] == 0) {
+                firstRowZero = true;
+                break;
+            }
+        }
+        
+        // Check if the first column has any zeroes
+        for (int i = 0; i < m; i++) {
+            if (matrix[i][0] == 0) {
+                firstColZero = true;
+                break;
+            }
+        }
+        
+        // Use first row and first column as markers for the rest of the matrix
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
         
-        if(ahead == true){
-        for(int i = 0; i<n; i++) {
-            for(int j = 0; j<m; j++) {
-                if(matrix[i][j] == -1111) {
+        // Zero out cells based on markers in the first row and first column
+        for (int i = 1; i < m; i++) {
+            for (int j = 1; j < n; j++) {
+                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
                     matrix[i][j] = 0;
                 }
             }
         }
+        
+        // Zero out the first row if needed
+        if (firstRowZero) {
+            for (int j = 0; j < n; j++) {
+                matrix[0][j] = 0;
+            }
+        }
+        
+        // Zero out the first column if needed
+        if (firstColZero) {
+            for (int i = 0; i < m; i++) {
+                matrix[i][0] = 0;
+            }
+        }
     }
-}
 };
