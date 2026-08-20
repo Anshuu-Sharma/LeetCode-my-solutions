@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1423,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0085-maximal-rectangle) |
