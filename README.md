@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0307-range-sum-query-mutable) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0455-assign-cookies) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0354-russian-doll-envelopes) |
@@ -1873,6 +1876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
@@ -2394,6 +2398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -2406,4 +2411,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
