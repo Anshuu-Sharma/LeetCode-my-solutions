@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-shortest-common-supersequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1250-longest-common-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
