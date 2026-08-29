@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-single-threaded-cpu](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1854-maximum-population-year](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1854-maximum-population-year) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1876-map-of-highest-peak](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
 | [1817-finding-the-users-active-minutes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1817-finding-the-users-active-minutes) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-operations-on-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-operations-on-tree) |
@@ -2015,6 +2017,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1993-operations-on-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-operations-on-tree) |
 ## Iterator
 |  |
