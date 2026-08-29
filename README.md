@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
+| [1817-finding-the-users-active-minutes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1834-single-threaded-cpu](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1834-single-threaded-cpu) |
@@ -982,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1813-maximum-erasure-value) |
+| [1817-finding-the-users-active-minutes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-operations-on-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1993-operations-on-tree) |
