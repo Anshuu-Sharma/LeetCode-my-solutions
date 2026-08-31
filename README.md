@@ -528,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3427-special-array-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3427-special-array-ii) |
 | [3429-paint-house-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3429-paint-house-iv) |
@@ -904,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-paint-house-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3429-paint-house-iv) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1513,6 +1515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String Matching
