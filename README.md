@@ -894,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2690-house-robber-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2690-house-robber-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1168,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -1400,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2681-put-marbles-in-bags](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2690-house-robber-iv) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1445,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Matrix
 |  |
