@@ -978,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1048-longest-string-chain) |
 | [1079-letter-tile-possibilities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1345-jump-game-iv) |
@@ -1047,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1366-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1366-rank-teams-by-votes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
@@ -1126,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1189-maximum-number-of-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
