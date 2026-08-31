@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1306-jump-game-iii) |
 | [1310-watering-plants](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1310-watering-plants) |
 | [1331-path-with-maximum-gold](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1331-path-with-maximum-gold) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1345-jump-game-iv) |
@@ -867,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1250-longest-common-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1406-stone-game-iii) |
