@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2439-minimize-maximum-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2439-minimize-maximum-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2554-minimum-total-distance-traveled](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1260,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2439-minimize-maximum-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -1396,6 +1400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2509-minimize-xor](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2591-distribute-money-to-maximum-children) |
