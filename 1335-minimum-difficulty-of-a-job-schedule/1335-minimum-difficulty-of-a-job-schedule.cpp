@@ -1,47 +1,35 @@
 class Solution {
-private:
-    int solve(vector<int>& jobDifficulty, int n, int idx, int d, vector<vector<int>>& memo) {
-        // Base case: If we reach the last day, all remaining jobs must be done today
-        if (d == 1) {
-            int maxDiff = 0;
-            for (int i = idx; i < n; ++i) {
-                maxDiff = max(maxDiff, jobDifficulty[i]);
-            }
-            return maxDiff;
-        }
-
-        // Return memoized result if already computed
-        if (memo[idx][d] != -1) {
-            return memo[idx][d];
-        }
-
-        int minTotalDifficulty = INT_MAX;
-        int maxDiffToday = 0;
-
-        // Try ending today's work at any index j, leaving enough jobs for remaining d - 1 days
-        for (int j = idx; j <= n - d; ++j) {
-            maxDiffToday = max(maxDiffToday, jobDifficulty[j]);
-            
-            // Recursively calculate difficulty for remaining jobs and days
-            int remainingDiff = solve(jobDifficulty, n, j + 1, d - 1, memo);
-            
-            minTotalDifficulty = min(minTotalDifficulty, maxDiffToday + remainingDiff);
-        }
-
-        // Cache and return the result
-        return memo[idx][d] = minTotalDifficulty;
-    }
-
 public:
     int minDifficulty(vector<int>& jobDifficulty, int d) {
         int n = jobDifficulty.size();
         
         // Impossible if fewer jobs than days
         if (n < d) return -1;
-        
-        // Memoization table initialized to -1: memo[idx][days_left]
-        vector<vector<int>> memo(n, vector<int>(d + 1, -1));
-        
-        return solve(jobDifficulty, n, 0, d, memo);
+
+        // dp[i][day]: min difficulty to schedule jobs from index i to n-1 in 'day' days
+        vector<vector<int>> dp(n + 1, vector<int>(d + 1, 1e9));
+
+        // Base Case: 1 day remaining (day = 1)
+        int maxDiff = 0;
+        for (int i = n - 1; i >= 0; --i) {
+            maxDiff = max(maxDiff, jobDifficulty[i]);
+            dp[i][1] = maxDiff;
+        }
+
+        // Fill table for remaining days (from 2 up to d)
+        for (int day = 2; day <= d; ++day) {
+            // Index i must leave at least (day - 1) jobs for subsequent days
+            for (int i = 0; i <= n - day; ++i) {
+                int maxDiffToday = 0;
+
+                // Try partitioning today's work at index j
+                for (int j = i; j <= n - day; ++j) {
+                    maxDiffToday = max(maxDiffToday, jobDifficulty[j]);
+                    dp[i][day] = min(dp[i][day], maxDiffToday + dp[j + 1][day - 1]);
+                }
+            }
+        }
+
+        return dp[0][d];
     }
 };
