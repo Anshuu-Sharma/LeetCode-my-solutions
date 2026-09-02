@@ -2496,4 +2496,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
