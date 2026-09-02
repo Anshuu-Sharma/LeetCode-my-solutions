@@ -1100,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1570,6 +1571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -1664,6 +1666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -1774,6 +1777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -1851,6 +1855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2015,6 +2020,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -2049,6 +2055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0895-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
