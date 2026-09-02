@@ -7,32 +7,36 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
 class Solution {
 public:
-    void helper(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& mpp, TreeNode* par){
-        if(!root) return;
-
-        mpp[root] = par;
-        helper(root->left, mpp, root);
-        helper(root->right, mpp, root);
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        unordered_set<TreeNode*> vis;
+        
+        // If root is NULL, nothing is found
+        if(root == NULL)
+            return NULL;
 
-        unordered_map<TreeNode*, TreeNode*> mpp;
-        helper(root, mpp, nullptr);
+        // If root is p or q, return root
+        if(root == p || root == q)
+            return root;
 
+        // Search in left subtree
+        TreeNode* leftLCA = lowestCommonAncestor(root->left, p, q);
 
-        while(p){
-            vis.insert(p);
-            p = mpp[p];
-        }
+        // Search in right subtree
+        TreeNode* rightLCA = lowestCommonAncestor(root->right, p, q);
 
-         while(q){
-             if(vis.count(q)) return q;
-            q = mpp[q];
-        }
-        return nullptr;
+        // One node found on each side
+        // Therefore, root is the LCA
+        if(leftLCA && rightLCA)
+            return root;
 
+        // If found on left, return left result
+        else if(leftLCA != NULL)
+            return leftLCA;
+
+        // Otherwise return right result
+        else
+            return rightLCA;
     }
 };
