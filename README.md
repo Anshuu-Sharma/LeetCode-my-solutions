@@ -986,6 +986,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1345-jump-game-iv) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1366-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1366-rank-teams-by-votes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1054,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1366-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1366-rank-teams-by-votes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1483-rank-teams-by-votes) |
@@ -1142,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1268-search-suggestions-system) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1304-longest-happy-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1366-rank-teams-by-votes) |
