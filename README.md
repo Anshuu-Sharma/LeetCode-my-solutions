@@ -700,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1311,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0368-largest-divisible-subset) |
+| [0441-arranging-coins](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0441-arranging-coins) |
 | [0447-number-of-boomerangs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0447-number-of-boomerangs) |
 | [0556-next-greater-element-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0670-maximum-swap) |
