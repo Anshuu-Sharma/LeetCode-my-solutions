@@ -1043,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3945-digit-frequency-score](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
@@ -1374,6 +1375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3945-digit-frequency-score](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
