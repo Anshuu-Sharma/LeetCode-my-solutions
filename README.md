@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0835-image-overlap) |
 | [0837-most-common-word](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0845-longest-mountain-in-array) |
@@ -1509,6 +1510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0835-image-overlap) |
 | [0861-flipping-an-image](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0967-minimum-falling-path-sum) |
