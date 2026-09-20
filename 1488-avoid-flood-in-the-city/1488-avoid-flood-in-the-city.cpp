@@ -16,8 +16,7 @@ public:
         if (rains[i] == 0) {
             // If it's a dry day, remember its index
             // We'll decide later which lake to dry on this day
-            if (!lakes.empty())
-                dry.insert(i);
+            if (!lakes.empty()) dry.insert(i);
             continue;
         }
 
