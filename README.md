@@ -2449,6 +2449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1075-project-employees-i) |
+| [1148-article-views-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1193-monthly-transactions-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
