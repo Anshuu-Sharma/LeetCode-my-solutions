@@ -1215,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2134,6 +2135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2931-maximum-spending-after-buying-items](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2931-maximum-spending-after-buying-items) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 | [3647-zero-array-transformation-iii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2324,6 +2326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Queue
 |  |
 | ------- |
@@ -2423,6 +2426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
