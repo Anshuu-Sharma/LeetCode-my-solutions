@@ -679,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1029,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -1074,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1196,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2886-faulty-keyboard](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2886-faulty-keyboard) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -1444,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2931-maximum-spending-after-buying-items](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/2931-maximum-spending-after-buying-items) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Anshuu-Sharma/LeetCode-my-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
